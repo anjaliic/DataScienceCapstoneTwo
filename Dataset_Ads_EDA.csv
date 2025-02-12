@@ -1,0 +1,1494 @@
+,Income,Location,Ad Type,Ad Placement,Clicks,Conversion Rate,CTR,Ad Type_Text,Ad Type_Video
+0,35717.43,Urban,Banner,Social Media,3,0.0981,0.0737,False,False
+1,64585.73,Suburban,Text,Website,6,0.1122,0.0232,True,False
+2,21109.4,Urban,Native,Search Engine,5,0.1426,0.0539,False,False
+3,84335.16,Rural,Video,Search Engine,8,0.164,0.0777,False,True
+4,29682.04,Rural,Video,Search Engine,10,0.119,0.0538,False,True
+5,40065.86,Rural,Native,Social Media,1,0.2226,0.048,False,False
+6,62817.58,Rural,Native,Website,4,0.1057,0.0547,False,False
+7,30756.85,Urban,Banner,Social Media,0,0.232,0.0508,False,False
+8,45947.1,Rural,Video,Website,5,0.0538,0.0303,False,True
+9,51355.06,Urban,Banner,Search Engine,6,0.2863,0.058,False,False
+10,23174.34,Rural,Text,Social Media,3,0.071,0.0678,True,False
+11,68853.82,Urban,Banner,Search Engine,3,0.0596,0.0254,False,False
+12,44979.21,Urban,Native,Social Media,0,0.1081,0.0165,False,False
+13,35720.87,Rural,Text,Social Media,5,0.2205,0.026,True,False
+14,67818.54,Rural,Video,Search Engine,5,0.245,0.0278,False,True
+15,100260.79,Urban,Native,Search Engine,5,0.188,0.0674,False,False
+16,33027.18,Suburban,Native,Search Engine,4,0.3081,0.0236,False,False
+17,70786.39,Suburban,Native,Website,2,0.0292,0.0705,False,False
+18,27858.24,Urban,Video,Social Media,7,0.0656,0.084,False,True
+19,18081.34,Urban,Video,Search Engine,5,0.3892,0.0208,False,True
+20,13715.06,Rural,Banner,Social Media,7,0.2759,0.0371,False,False
+21,53396.39,Rural,Native,Social Media,9,0.2716,0.034,False,False
+22,47409.79,Rural,Banner,Social Media,4,0.053,0.025,False,False
+23,43529.85,Urban,Video,Search Engine,3,0.0988,0.0793,False,True
+24,49525.38,Urban,Banner,Search Engine,6,0.2495,0.0456,False,False
+25,15418.29,Rural,Text,Social Media,9,0.1383,0.0703,True,False
+26,84652.97,Suburban,Text,Search Engine,5,0.3645,0.0625,True,False
+27,60914.57,Suburban,Video,Website,5,0.0683,0.0556,False,True
+28,25592.38,Rural,Native,Website,6,0.1135,0.003,False,False
+29,51146.08,Rural,Banner,Search Engine,5,0.2215,0.0249,False,False
+30,59326.49,Urban,Banner,Search Engine,7,0.1706,0.0524,False,False
+31,38487.22,Rural,Native,Website,4,0.0248,0.0608,False,False
+32,26523.66,Suburban,Text,Website,5,0.2946,0.0706,True,False
+33,43385.61,Rural,Native,Website,5,0.0557,0.0529,False,False
+34,75204.79,Urban,Text,Social Media,7,0.1795,0.0406,True,False
+35,36943.76,Urban,Video,Website,4,0.0912,0.012,False,True
+36,49612.53,Urban,Video,Search Engine,4,0.2966,0.0615,False,True
+37,55183.82,Suburban,Native,Website,7,0.0629,0.0375,False,False
+38,47074.04,Suburban,Text,Website,7,0.3212,0.0746,True,False
+39,51117.44,Urban,Video,Search Engine,4,0.0764,0.0337,False,True
+40,13674.28,Suburban,Native,Search Engine,3,0.063,0.0489,False,False
+41,85562.57,Suburban,Video,Search Engine,1,0.3251,0.0243,False,True
+42,39061.49,Urban,Native,Social Media,4,0.2265,0.0965,False,False
+43,25979.28,Rural,Video,Social Media,5,0.0836,0.0603,False,True
+44,39916.33,Rural,Banner,Social Media,4,0.0542,0.0207,False,False
+45,23723.76,Suburban,Video,Search Engine,6,0.0383,0.0257,False,True
+46,19457.81,Rural,Video,Website,4,0.2873,0.0601,False,True
+47,24481.97,Suburban,Native,Social Media,2,0.2859,0.0849,False,False
+48,58787.03,Suburban,Text,Search Engine,4,0.1499,0.0647,True,False
+49,33761.56,Rural,Text,Social Media,4,0.09,0.0497,True,False
+50,23765.46,Suburban,Banner,Social Media,7,0.0312,0.0515,False,False
+51,59059.97,Rural,Text,Search Engine,7,0.1791,0.0433,True,False
+52,39955.58,Rural,Video,Search Engine,10,0.4189,0.0292,False,True
+53,61878.48,Urban,Text,Website,3,0.171,0.0506,True,False
+54,88814.21,Suburban,Banner,Website,3,0.1638,0.0745,False,False
+55,10006.0,Suburban,Text,Social Media,2,0.3896,0.0821,True,False
+56,31995.6,Rural,Video,Search Engine,5,0.1872,0.0632,False,True
+57,50849.67,Suburban,Banner,Website,8,0.3027,0.032,False,False
+58,60953.49,Urban,Banner,Social Media,3,0.2291,0.0371,False,False
+59,7421.95,Suburban,Banner,Website,5,0.1177,0.0597,False,False
+60,30174.79,Rural,Banner,Website,2,0.1139,0.0631,False,False
+61,48436.52,Urban,Banner,Search Engine,7,0.116,0.0143,False,False
+62,78766.14,Urban,Video,Website,3,0.0712,0.0528,False,True
+63,31802.68,Suburban,Text,Website,6,0.1336,0.0722,True,False
+64,70507.92,Rural,Native,Website,13,0.1191,0.0321,False,False
+65,17097.52,Rural,Native,Website,5,0.1999,0.0416,False,False
+66,49647.93,Suburban,Native,Website,3,0.1502,0.0644,False,False
+67,75455.62,Suburban,Text,Website,6,0.2392,0.0487,True,False
+68,2762.99,Urban,Video,Social Media,9,0.195,0.0388,False,True
+69,77086.3,Suburban,Native,Website,6,0.2441,0.0387,False,False
+70,26482.76,Rural,Banner,Social Media,3,0.1634,0.0279,False,False
+71,54016.77,Suburban,Text,Website,7,0.1384,0.056,True,False
+72,7975.48,Urban,Video,Search Engine,5,0.2732,0.0509,False,True
+73,71737.27,Suburban,Text,Search Engine,10,0.0994,0.0485,True,False
+74,44548.47,Suburban,Banner,Social Media,3,0.0654,0.0243,False,False
+75,30015.2,Urban,Native,Social Media,7,0.3575,0.0474,False,False
+76,60962.34,Rural,Native,Website,2,0.2382,0.0486,False,False
+77,56481.86,Rural,Video,Website,4,0.197,0.0912,False,True
+78,34280.63,Suburban,Banner,Search Engine,5,0.0683,0.0539,False,False
+79,37104.94,Suburban,Native,Social Media,2,0.1692,0.0559,False,False
+80,58351.11,Urban,Video,Search Engine,5,0.2141,0.0515,False,True
+81,69285.97,Rural,Text,Website,7,0.0773,0.0183,True,False
+82,66906.87,Suburban,Banner,Social Media,3,0.1649,0.0628,False,False
+83,54109.87,Suburban,Native,Social Media,6,0.0266,0.0717,False,False
+84,61346.6,Suburban,Native,Search Engine,9,0.4346,0.0376,False,False
+85,34648.58,Urban,Text,Search Engine,6,0.1433,0.0565,True,False
+86,57250.96,Suburban,Text,Website,4,0.0533,0.045,True,False
+87,64780.53,Suburban,Banner,Website,3,0.1321,0.0786,False,False
+88,56916.6,Suburban,Banner,Social Media,6,0.2333,0.0378,False,False
+89,62297.62,Suburban,Native,Social Media,9,0.1163,0.0535,False,False
+90,50549.63,Suburban,Video,Website,5,0.3451,0.0452,False,True
+91,44396.59,Suburban,Text,Website,5,0.0921,0.0489,True,False
+92,54044.49,Suburban,Text,Search Engine,4,0.4286,0.0399,True,False
+93,45841.76,Urban,Text,Social Media,2,0.3546,0.0653,True,False
+94,36686.4,Rural,Banner,Website,5,0.134,0.0663,False,False
+95,44764.18,Suburban,Text,Social Media,4,0.3453,0.0487,True,False
+96,65392.19,Rural,Banner,Website,2,0.0244,0.0428,False,False
+97,50604.72,Rural,Video,Social Media,8,0.1523,0.0812,False,True
+98,63527.53,Rural,Video,Website,4,0.1039,0.0738,False,True
+99,48142.07,Urban,Banner,Search Engine,7,0.1427,0.0841,False,False
+100,64201.49,Suburban,Video,Social Media,7,0.2218,0.0448,False,True
+101,31274.19,Rural,Video,Search Engine,5,0.045,0.0519,False,True
+102,61155.42,Rural,Banner,Website,4,0.463,0.0748,False,False
+103,58206.65,Rural,Banner,Social Media,2,0.3339,0.0466,False,False
+104,40125.2,Suburban,Native,Social Media,7,0.3041,0.0513,False,False
+105,59238.87,Suburban,Text,Social Media,5,0.1468,0.0541,True,False
+106,5126.63,Suburban,Text,Search Engine,6,0.0991,0.0247,True,False
+107,54656.47,Rural,Native,Search Engine,1,0.1031,0.0547,False,False
+108,69766.4,Suburban,Video,Social Media,3,0.4831,0.0232,False,True
+109,66043.01,Urban,Native,Social Media,6,0.1554,0.0653,False,False
+110,46055.5,Suburban,Video,Website,3,0.1775,0.0793,False,True
+111,41148.44,Suburban,Banner,Social Media,4,0.1198,0.1144,False,False
+112,54780.36,Urban,Native,Search Engine,11,0.0459,0.0209,False,False
+113,39615.98,Rural,Text,Website,3,0.2404,0.0368,True,False
+114,29706.23,Rural,Native,Social Media,5,0.384,0.0711,False,False
+115,29380.42,Urban,Video,Search Engine,7,0.2879,0.0485,False,True
+116,48719.15,Suburban,Text,Website,4,0.0933,0.0582,True,False
+117,66245.84,Rural,Native,Social Media,5,0.0125,0.039,False,False
+118,43713.32,Rural,Banner,Social Media,6,0.3202,0.0754,False,False
+119,53418.79,Suburban,Text,Search Engine,4,0.2782,0.0155,True,False
+120,81045.08,Suburban,Video,Website,7,0.0852,0.0471,False,True
+121,47026.28,Rural,Video,Website,0,0.2482,0.0434,False,True
+122,50920.01,Rural,Text,Social Media,7,0.1415,0.066,True,False
+123,40147.58,Suburban,Native,Search Engine,2,0.1487,0.0801,False,False
+124,77357.56,Suburban,Video,Website,5,0.2495,0.0522,False,True
+125,36037.5,Suburban,Text,Social Media,7,0.0591,0.071,True,False
+126,58027.27,Rural,Native,Search Engine,7,0.1451,0.0541,False,False
+127,71735.82,Rural,Banner,Social Media,7,0.2628,0.0,False,False
+128,98902.33,Suburban,Banner,Website,4,0.1461,0.0609,False,False
+129,50423.87,Rural,Banner,Search Engine,3,0.1075,0.0577,False,False
+130,60298.66,Suburban,Video,Website,7,0.2476,0.0367,False,True
+131,23658.1,Urban,Text,Search Engine,4,0.0555,0.0767,True,False
+132,34098.15,Suburban,Banner,Search Engine,2,0.1676,0.0054,False,False
+133,21500.52,Rural,Banner,Search Engine,10,0.2396,0.0585,False,False
+134,20447.24,Rural,Banner,Search Engine,2,0.3025,0.0707,False,False
+135,93828.16,Suburban,Banner,Website,5,0.1518,0.0493,False,False
+136,48739.45,Suburban,Text,Website,6,0.2016,0.0096,True,False
+137,34835.35,Urban,Native,Website,6,0.2643,0.042,False,False
+138,41729.12,Urban,Text,Search Engine,6,0.1845,0.0382,True,False
+139,43947.47,Rural,Banner,Search Engine,8,0.3013,0.0729,False,False
+140,59571.34,Suburban,Native,Search Engine,4,0.434,0.0287,False,False
+141,38013.57,Rural,Text,Social Media,6,0.3536,0.0646,True,False
+142,52642.66,Urban,Video,Search Engine,4,0.1848,0.0652,False,True
+143,73133.71,Rural,Native,Search Engine,6,0.2308,0.0634,False,False
+144,65034.97,Urban,Native,Search Engine,5,0.3773,0.0207,False,False
+145,59642.84,Suburban,Video,Social Media,1,0.392,0.0424,False,True
+146,70359.51,Rural,Banner,Social Media,4,0.1439,0.0623,False,False
+147,63127.27,Urban,Video,Search Engine,2,0.2399,0.0591,False,True
+148,9297.5,Suburban,Native,Website,4,0.3982,0.0247,False,False
+149,65705.37,Suburban,Text,Social Media,3,0.1565,0.0905,True,False
+150,53972.99,Suburban,Banner,Website,8,0.056,0.0746,False,False
+151,69962.24,Rural,Text,Search Engine,5,0.2021,0.0521,True,False
+152,48565.82,Rural,Native,Search Engine,7,0.2498,0.0371,False,False
+153,74896.97,Rural,Video,Social Media,4,0.115,0.0626,False,True
+154,82051.49,Urban,Text,Website,2,0.0575,0.0332,True,False
+155,65251.31,Urban,Native,Website,5,0.0732,0.0678,False,False
+156,81310.9,Urban,Banner,Search Engine,4,0.2105,0.0353,False,False
+157,41977.83,Suburban,Native,Search Engine,4,0.0562,0.0292,False,False
+158,36582.01,Rural,Text,Search Engine,7,0.1331,0.0341,True,False
+159,54065.18,Rural,Video,Search Engine,4,0.0924,0.0964,False,True
+160,47252.77,Suburban,Native,Search Engine,1,0.2466,0.033,False,False
+161,49162.61,Suburban,Video,Website,7,0.3605,0.0322,False,True
+162,45907.31,Rural,Video,Search Engine,7,0.1523,0.0671,False,True
+163,56489.22,Urban,Banner,Website,7,0.2854,0.0457,False,False
+164,17324.13,Rural,Video,Social Media,5,0.2711,0.0733,False,True
+165,70407.11,Urban,Text,Search Engine,6,0.1105,0.0693,True,False
+166,38514.2,Urban,Banner,Social Media,6,0.0974,0.0383,False,False
+167,39145.29,Rural,Text,Social Media,5,0.4655,0.071,True,False
+168,75589.23,Rural,Text,Search Engine,6,0.3696,0.0096,True,False
+169,29636.94,Suburban,Native,Social Media,7,0.0935,0.0506,False,False
+170,25305.68,Urban,Video,Search Engine,3,0.0466,0.0198,False,True
+171,57136.85,Urban,Video,Search Engine,5,0.3236,0.0353,False,True
+172,42909.2,Urban,Banner,Search Engine,5,0.2587,0.0636,False,False
+173,48708.54,Suburban,Text,Search Engine,4,0.2095,0.0566,True,False
+174,77960.06,Suburban,Banner,Website,6,0.5562,0.0611,False,False
+175,740.99,Urban,Text,Search Engine,4,0.0911,0.0295,True,False
+176,61022.36,Urban,Native,Social Media,4,0.1597,0.0315,False,False
+177,46401.57,Urban,Banner,Website,1,0.137,0.0851,False,False
+178,7743.4,Urban,Video,Social Media,10,0.0202,0.1212,False,True
+179,38697.78,Urban,Native,Social Media,8,0.1756,0.0,False,False
+180,78005.54,Rural,Text,Website,7,0.23,0.0817,True,False
+181,29816.96,Suburban,Native,Website,5,0.1908,0.0799,False,False
+182,59139.49,Urban,Video,Search Engine,2,0.1293,0.0459,False,True
+183,67213.93,Rural,Banner,Search Engine,7,0.0342,0.0473,False,False
+184,46095.06,Suburban,Text,Website,9,0.0319,0.0493,True,False
+185,14067.12,Rural,Banner,Search Engine,6,0.1169,0.0413,False,False
+186,42369.54,Urban,Banner,Search Engine,6,0.2307,0.0419,False,False
+187,43208.78,Rural,Video,Website,4,0.2415,0.0495,False,True
+188,53730.7,Rural,Native,Search Engine,4,0.0954,0.0403,False,False
+189,40161.11,Suburban,Video,Social Media,5,0.3508,0.0583,False,True
+190,75292.9,Suburban,Banner,Social Media,4,0.209,0.0384,False,False
+191,57905.0,Rural,Native,Social Media,5,0.2892,0.0455,False,False
+192,67774.21,Rural,Banner,Search Engine,7,0.2463,0.0671,False,False
+193,40100.99,Urban,Banner,Search Engine,4,0.2846,0.0598,False,False
+194,55818.61,Suburban,Text,Social Media,6,0.2408,0.049,True,False
+195,60165.7,Urban,Video,Website,5,0.1388,0.0337,False,True
+196,21363.72,Urban,Native,Social Media,6,0.1389,0.0449,False,False
+197,59972.32,Suburban,Text,Search Engine,6,0.1809,0.0609,True,False
+198,39419.38,Urban,Text,Search Engine,4,0.2065,0.0498,True,False
+199,64212.5,Rural,Native,Social Media,4,0.1037,0.0715,False,False
+200,70448.98,Suburban,Native,Search Engine,8,0.271,0.073,False,False
+201,69205.42,Rural,Text,Social Media,4,0.3586,0.0756,True,False
+202,39445.48,Rural,Banner,Social Media,3,0.3283,0.0637,False,False
+203,79090.07,Rural,Banner,Search Engine,8,0.3325,0.0603,False,False
+204,32056.37,Urban,Banner,Website,3,0.0135,0.0431,False,False
+205,50860.16,Urban,Banner,Search Engine,3,0.3031,0.0216,False,False
+206,50256.83,Suburban,Native,Social Media,3,0.1512,0.0389,False,False
+207,102760.97,Rural,Video,Website,2,0.0511,0.0421,False,True
+208,27589.46,Rural,Banner,Website,4,0.0924,0.0792,False,False
+209,34897.83,Suburban,Video,Website,3,0.2061,0.0638,False,True
+210,69937.19,Suburban,Banner,Website,2,0.2467,0.0162,False,False
+211,57826.95,Rural,Video,Search Engine,5,0.1863,0.0378,False,True
+212,47769.22,Rural,Video,Search Engine,4,0.1179,0.0538,False,True
+213,32895.99,Suburban,Text,Social Media,10,0.4966,0.0402,True,False
+214,15070.8,Suburban,Banner,Search Engine,3,0.1304,0.0656,False,False
+215,60676.96,Rural,Text,Search Engine,3,0.0932,0.0763,True,False
+216,37885.16,Suburban,Banner,Search Engine,5,0.0901,0.0237,False,False
+217,57529.23,Urban,Native,Social Media,3,0.0724,0.0305,False,False
+218,62625.19,Urban,Native,Search Engine,4,0.1562,0.0469,False,False
+219,58560.95,Urban,Banner,Search Engine,4,0.1948,0.0226,False,False
+220,52223.2,Rural,Native,Search Engine,9,0.1072,0.0579,False,False
+221,58166.61,Rural,Banner,Search Engine,5,0.1081,0.0857,False,False
+222,55087.16,Rural,Video,Social Media,3,0.1563,0.0698,False,True
+223,41028.55,Suburban,Native,Search Engine,4,0.0426,0.0451,False,False
+224,47850.12,Rural,Native,Social Media,6,0.2517,0.0147,False,False
+225,46408.25,Rural,Banner,Website,5,0.1543,0.042,False,False
+226,60514.43,Urban,Banner,Search Engine,5,0.1423,0.0524,False,False
+227,69266.28,Rural,Native,Website,5,0.3509,0.0383,False,False
+228,45499.34,Suburban,Banner,Website,2,0.2458,0.0252,False,False
+229,32087.91,Urban,Banner,Website,3,0.2084,0.0531,False,False
+230,68060.19,Urban,Video,Website,14,0.1184,0.0584,False,True
+231,73027.36,Urban,Banner,Website,5,0.2095,0.0428,False,False
+232,28525.71,Rural,Banner,Search Engine,6,0.0706,0.0424,False,False
+233,33604.91,Urban,Native,Search Engine,6,0.2423,0.0583,False,False
+234,69433.24,Rural,Video,Social Media,6,0.0476,0.0675,False,True
+235,66439.91,Urban,Video,Social Media,1,0.0847,0.0756,False,True
+236,59263.93,Urban,Banner,Search Engine,6,0.2138,0.06,False,False
+237,75351.1,Urban,Video,Social Media,8,0.2453,0.0372,False,True
+238,47584.88,Urban,Video,Website,3,0.2486,0.0399,False,True
+239,48488.37,Urban,Video,Social Media,11,0.1568,0.0639,False,True
+240,49130.73,Urban,Video,Social Media,4,0.1124,0.0544,False,True
+241,17935.56,Rural,Video,Search Engine,4,0.1843,0.0598,False,True
+242,17456.17,Suburban,Text,Search Engine,6,0.1314,0.0376,True,False
+243,11891.82,Urban,Video,Search Engine,5,0.2681,0.0399,False,True
+244,38940.87,Urban,Banner,Search Engine,8,0.2303,0.0,False,False
+245,35888.37,Rural,Text,Search Engine,5,0.0946,0.0232,True,False
+246,74227.2,Urban,Video,Search Engine,10,0.1318,0.063,False,True
+247,62997.23,Suburban,Native,Search Engine,3,0.1809,0.0444,False,False
+248,55941.44,Urban,Native,Search Engine,5,0.2447,0.0399,False,False
+249,89887.47,Suburban,Native,Website,8,0.3689,0.0585,False,False
+250,44191.6,Suburban,Native,Social Media,7,0.1322,0.0671,False,False
+251,95758.17,Rural,Video,Search Engine,6,0.2889,0.0598,False,True
+252,31971.47,Urban,Text,Search Engine,3,0.0475,0.0351,True,False
+253,34933.67,Urban,Banner,Social Media,9,0.1556,0.046,False,False
+254,32585.71,Rural,Native,Search Engine,9,0.1832,0.0416,False,False
+255,58931.11,Suburban,Text,Search Engine,5,0.2716,0.0305,True,False
+256,25457.52,Urban,Native,Website,5,0.0953,0.0572,False,False
+257,81632.3,Suburban,Banner,Search Engine,6,0.1909,0.0303,False,False
+258,70635.79,Urban,Native,Website,8,0.1079,0.0425,False,False
+259,26938.27,Urban,Text,Search Engine,3,0.0847,0.0347,True,False
+260,41494.05,Rural,Banner,Search Engine,8,0.1001,0.055,False,False
+261,56836.3,Urban,Banner,Social Media,2,0.1077,0.0359,False,False
+262,76848.87,Urban,Native,Social Media,6,0.0528,0.0772,False,False
+263,77312.65,Rural,Native,Social Media,4,0.3425,0.0039,False,False
+264,42973.6,Urban,Video,Social Media,8,0.2291,0.0615,False,True
+265,70012.45,Suburban,Text,Social Media,4,0.1393,0.0399,True,False
+266,57499.6,Suburban,Banner,Search Engine,7,0.1842,0.0548,False,False
+267,47919.38,Urban,Banner,Social Media,6,0.4156,0.0315,False,False
+268,54714.57,Rural,Text,Search Engine,8,0.1519,0.0485,True,False
+269,56373.78,Rural,Banner,Website,8,0.1529,0.0366,False,False
+270,41083.13,Urban,Native,Search Engine,4,0.2869,0.0626,False,False
+271,54463.9,Suburban,Text,Search Engine,3,0.1715,0.048,True,False
+272,50138.7,Suburban,Banner,Search Engine,4,0.0555,0.0692,False,False
+273,80724.87,Rural,Banner,Search Engine,5,0.1916,0.066,False,False
+274,74428.82,Urban,Text,Social Media,2,0.029,0.0228,True,False
+275,43958.03,Urban,Banner,Search Engine,2,0.0347,0.0768,False,False
+276,54111.48,Rural,Video,Search Engine,3,0.2028,0.0377,False,True
+277,46557.54,Rural,Video,Website,5,0.2974,0.0669,False,True
+278,59884.35,Urban,Banner,Website,7,0.1334,0.0525,False,False
+279,61549.16,Rural,Banner,Social Media,8,0.1967,0.0687,False,False
+280,19180.91,Suburban,Banner,Website,7,0.2341,0.072,False,False
+281,59680.15,Rural,Video,Search Engine,2,0.241,0.0543,False,True
+282,57516.9,Suburban,Native,Social Media,8,0.1376,0.0453,False,False
+283,44191.23,Rural,Banner,Social Media,1,0.2149,0.0682,False,False
+284,47278.52,Rural,Video,Social Media,6,0.1806,0.0348,False,True
+285,68616.94,Urban,Native,Social Media,3,0.092,0.056,False,False
+286,83560.06,Rural,Text,Search Engine,4,0.07,0.0899,True,False
+287,60886.85,Rural,Text,Website,5,0.1853,0.0804,True,False
+288,25653.13,Rural,Video,Website,3,0.2926,0.04,False,True
+289,25384.06,Rural,Video,Website,5,0.215,0.0404,False,True
+290,64257.95,Urban,Native,Website,5,0.0723,0.0658,False,False
+291,44395.11,Urban,Banner,Social Media,6,0.1012,0.0733,False,False
+292,49742.59,Urban,Video,Social Media,3,0.1955,0.0716,False,True
+293,69358.12,Rural,Video,Social Media,8,0.3108,0.0341,False,True
+294,56037.71,Urban,Banner,Social Media,9,0.1946,0.0641,False,False
+295,17847.01,Rural,Text,Search Engine,2,0.3346,0.0447,True,False
+296,21915.87,Rural,Native,Social Media,4,0.3869,0.0633,False,False
+297,65048.95,Urban,Text,Website,7,0.1069,0.067,True,False
+298,46715.06,Rural,Banner,Search Engine,7,0.1923,0.0588,False,False
+299,69093.47,Suburban,Video,Website,6,0.2203,0.0463,False,True
+300,66690.3,Suburban,Video,Website,5,0.3254,0.0572,False,True
+301,53730.47,Urban,Native,Website,3,0.0573,0.039,False,False
+302,7076.0,Rural,Banner,Website,6,0.0065,0.054,False,False
+303,47086.72,Urban,Banner,Search Engine,4,0.2944,0.0704,False,False
+304,14930.08,Rural,Video,Search Engine,4,0.2281,0.0632,False,True
+305,9113.35,Rural,Text,Website,5,0.2135,0.0313,True,False
+306,95033.41,Rural,Native,Website,4,0.1907,0.0595,False,False
+307,29046.26,Suburban,Banner,Website,9,0.1524,0.0568,False,False
+308,24825.79,Urban,Banner,Search Engine,5,0.2963,0.0395,False,False
+309,36657.05,Rural,Banner,Social Media,7,0.0423,0.0872,False,False
+310,90186.62,Rural,Banner,Website,4,0.404,0.0589,False,False
+311,66622.81,Urban,Video,Website,5,0.0269,0.0784,False,True
+312,70874.18,Suburban,Text,Social Media,5,0.1978,0.0616,True,False
+313,68165.44,Suburban,Text,Search Engine,4,0.2163,0.0174,True,False
+314,52524.32,Rural,Banner,Website,7,0.1096,0.046,False,False
+315,27813.66,Suburban,Banner,Social Media,6,0.2328,0.0304,False,False
+316,35031.74,Urban,Text,Search Engine,4,0.169,0.058,True,False
+317,10120.77,Rural,Native,Social Media,11,0.2169,0.0668,False,False
+318,68965.16,Urban,Text,Search Engine,5,0.2078,0.0329,True,False
+319,14150.84,Rural,Native,Website,6,0.4107,0.0378,False,False
+320,48367.42,Urban,Video,Social Media,8,0.1521,0.05,False,True
+321,56151.5,Rural,Banner,Social Media,6,0.3761,0.0445,False,False
+322,7220.58,Rural,Video,Search Engine,4,0.0872,0.0705,False,True
+323,30197.17,Urban,Native,Search Engine,6,0.2275,0.0401,False,False
+324,45616.79,Rural,Native,Social Media,11,0.3301,0.0515,False,False
+325,28293.89,Rural,Video,Search Engine,8,0.1234,0.0556,False,True
+326,68193.73,Urban,Banner,Website,2,0.1191,0.0263,False,False
+327,69557.53,Suburban,Native,Search Engine,6,0.3954,0.0179,False,False
+328,69742.86,Suburban,Native,Social Media,6,0.1842,0.0614,False,False
+329,31765.14,Urban,Video,Website,4,0.1571,0.0505,False,True
+330,80683.67,Suburban,Text,Search Engine,7,0.1547,0.0816,True,False
+331,87081.81,Rural,Native,Website,5,0.1407,0.0547,False,False
+332,29740.07,Suburban,Banner,Social Media,3,0.0708,0.0684,False,False
+333,58564.27,Rural,Native,Website,2,0.0593,0.0735,False,False
+334,48784.73,Rural,Native,Search Engine,6,0.1611,0.0115,False,False
+335,65592.67,Urban,Banner,Website,7,0.0832,0.0519,False,False
+336,23931.29,Rural,Text,Search Engine,1,0.0769,0.0746,True,False
+337,38427.9,Urban,Video,Social Media,5,0.1635,0.0692,False,True
+338,47650.25,Rural,Video,Social Media,1,0.2865,0.0225,False,True
+339,52696.16,Urban,Text,Search Engine,6,0.2763,0.0548,True,False
+340,83111.39,Urban,Native,Social Media,5,0.133,0.032,False,False
+341,36210.49,Rural,Text,Website,5,0.0455,0.0609,True,False
+342,53547.24,Rural,Banner,Search Engine,4,0.1149,0.0519,False,False
+343,86218.5,Urban,Text,Social Media,4,0.1264,0.0664,True,False
+344,74935.24,Suburban,Text,Website,7,0.4691,0.0364,True,False
+345,42409.68,Suburban,Native,Search Engine,4,0.0954,0.051,False,False
+346,85215.83,Urban,Native,Social Media,10,0.4635,0.0816,False,False
+347,44025.7,Urban,Text,Search Engine,6,0.0312,0.0584,True,False
+348,52007.27,Suburban,Text,Social Media,3,0.347,0.0817,True,False
+349,89887.17,Suburban,Native,Search Engine,3,0.1281,0.0218,False,False
+350,13055.33,Suburban,Native,Search Engine,4,0.1095,0.0319,False,False
+351,76109.19,Rural,Text,Search Engine,4,0.2434,0.0703,True,False
+352,80867.2,Urban,Text,Social Media,5,0.0925,0.0834,True,False
+353,39934.63,Urban,Text,Social Media,5,0.2218,0.0446,True,False
+354,46382.74,Urban,Native,Website,3,0.0762,0.0389,False,False
+355,30602.76,Urban,Native,Social Media,4,0.2034,0.079,False,False
+356,42712.34,Suburban,Banner,Search Engine,7,0.3833,0.0865,False,False
+357,21176.12,Urban,Text,Search Engine,6,0.153,0.0453,True,False
+358,32033.74,Suburban,Banner,Website,1,0.3849,0.0208,False,False
+359,25693.77,Urban,Text,Search Engine,4,0.2781,0.0393,True,False
+360,41652.95,Rural,Video,Search Engine,8,0.0916,0.0495,False,True
+361,84358.96,Suburban,Banner,Search Engine,4,0.2786,0.011,False,False
+362,45794.05,Urban,Video,Website,5,0.2262,0.0561,False,True
+363,50119.18,Suburban,Text,Website,4,0.3354,0.0575,True,False
+364,55409.94,Rural,Text,Website,7,0.1316,0.0124,True,False
+365,32051.1,Rural,Native,Website,0,0.6195,0.0347,False,False
+366,70503.41,Suburban,Text,Search Engine,6,0.1957,0.065,True,False
+367,46769.64,Suburban,Text,Search Engine,6,0.2734,0.035,True,False
+368,55898.25,Suburban,Text,Website,6,0.1997,0.0376,True,False
+369,31632.61,Urban,Text,Social Media,2,0.3802,0.0623,True,False
+370,30304.42,Urban,Text,Website,3,0.1218,0.0132,True,False
+371,55537.12,Suburban,Native,Website,2,0.2777,0.0697,False,False
+372,33998.04,Suburban,Banner,Social Media,4,0.3681,0.0368,False,False
+373,67239.17,Urban,Video,Social Media,5,0.1209,0.0237,False,True
+374,68232.96,Rural,Text,Website,11,0.083,0.0612,True,False
+375,96472.57,Suburban,Native,Website,11,0.3351,0.0627,False,False
+376,57637.93,Urban,Video,Website,5,0.2099,0.053,False,True
+377,43566.16,Suburban,Banner,Social Media,5,0.2758,0.0535,False,False
+378,72836.41,Rural,Text,Social Media,6,0.2463,0.0242,True,False
+379,52928.12,Suburban,Text,Search Engine,4,0.1955,0.0289,True,False
+380,46759.52,Rural,Text,Social Media,3,0.2209,0.0734,True,False
+381,53829.96,Urban,Native,Website,5,0.3351,0.0221,False,False
+382,22241.27,Urban,Video,Website,4,0.0357,0.0881,False,True
+383,45173.82,Urban,Video,Social Media,4,0.3264,0.0831,False,True
+384,18024.26,Rural,Banner,Search Engine,4,0.1278,0.0659,False,False
+385,59194.09,Urban,Banner,Social Media,1,0.244,0.0601,False,False
+386,2211.08,Rural,Banner,Social Media,3,0.0837,0.0305,False,False
+387,44632.54,Suburban,Text,Social Media,6,0.1957,0.055,True,False
+388,55192.1,Rural,Video,Website,7,0.1459,0.046,False,True
+389,10136.38,Rural,Banner,Social Media,5,0.2293,0.0452,False,False
+390,36319.61,Rural,Text,Search Engine,1,0.0618,0.0531,True,False
+391,41684.98,Suburban,Banner,Website,3,0.1442,0.0775,False,False
+392,60697.3,Urban,Video,Social Media,4,0.2504,0.0618,False,True
+393,78729.59,Urban,Text,Social Media,9,0.236,0.0788,True,False
+394,66060.6,Suburban,Native,Website,4,0.343,0.0345,False,False
+395,19203.81,Suburban,Native,Website,8,0.3729,0.1032,False,False
+396,59747.5,Urban,Text,Website,3,0.1622,0.0609,True,False
+397,44102.79,Urban,Banner,Website,4,0.1482,0.0491,False,False
+398,69521.57,Rural,Video,Social Media,8,0.3813,0.0441,False,True
+399,49544.53,Suburban,Text,Website,6,0.0729,0.0499,True,False
+400,59121.65,Urban,Text,Website,8,0.1855,0.0453,True,False
+401,27403.57,Suburban,Banner,Website,4,0.239,0.0421,False,False
+402,67865.34,Suburban,Video,Website,6,0.1652,0.038,False,True
+403,37029.91,Urban,Text,Social Media,4,0.3413,0.0999,True,False
+404,52768.42,Rural,Banner,Website,9,0.1159,0.0812,False,False
+405,78680.42,Suburban,Video,Social Media,7,0.1329,0.0306,False,True
+406,17188.25,Suburban,Native,Website,5,0.1693,0.0655,False,False
+407,70212.45,Urban,Banner,Social Media,3,0.13,0.0539,False,False
+408,62506.1,Rural,Video,Search Engine,7,0.0088,0.0419,False,True
+409,53984.61,Suburban,Native,Website,3,0.1798,0.0803,False,False
+410,42999.74,Urban,Banner,Search Engine,5,0.0473,0.057,False,False
+411,86808.39,Rural,Banner,Social Media,4,0.1792,0.0342,False,False
+412,34255.93,Suburban,Text,Search Engine,4,0.0979,0.0713,True,False
+413,81143.92,Rural,Text,Social Media,3,0.4568,0.0571,True,False
+414,49896.66,Urban,Native,Social Media,5,0.2332,0.0409,False,False
+415,47069.42,Urban,Text,Website,3,0.0579,0.0352,True,False
+416,74321.31,Rural,Banner,Search Engine,6,0.1404,0.048,False,False
+417,58727.35,Urban,Text,Website,5,0.3154,0.0523,True,False
+418,50642.63,Urban,Native,Search Engine,8,0.1607,0.0528,False,False
+419,65171.37,Suburban,Video,Search Engine,3,0.0404,0.0492,False,True
+420,36856.37,Suburban,Text,Social Media,7,0.2473,0.0308,True,False
+421,79343.62,Urban,Text,Social Media,3,0.1575,0.0804,True,False
+422,65706.42,Urban,Text,Website,4,0.3894,0.0839,True,False
+423,63666.06,Urban,Banner,Social Media,6,0.2059,0.0697,False,False
+424,71954.48,Rural,Native,Search Engine,5,0.2052,0.0579,False,False
+425,59975.88,Rural,Banner,Social Media,5,0.2867,0.0407,False,False
+426,46789.52,Suburban,Text,Search Engine,10,0.1155,0.0485,True,False
+427,71704.7,Urban,Native,Social Media,9,0.0895,0.054,False,False
+428,51778.18,Rural,Native,Social Media,4,0.2756,0.0337,False,False
+429,101883.66,Rural,Video,Search Engine,7,0.4158,0.0398,False,True
+430,33794.26,Rural,Native,Social Media,4,0.0247,0.0345,False,False
+431,51206.83,Rural,Native,Website,3,0.0843,0.0326,False,False
+432,73539.7,Urban,Banner,Social Media,7,0.0378,0.0682,False,False
+433,15514.25,Rural,Banner,Social Media,6,0.4186,0.0138,False,False
+434,13468.44,Rural,Banner,Website,2,0.1248,0.0223,False,False
+435,35293.21,Rural,Text,Website,5,0.0839,0.0342,True,False
+436,39513.44,Suburban,Native,Search Engine,4,0.1305,0.0453,False,False
+437,34944.78,Suburban,Native,Social Media,6,0.2756,0.0165,False,False
+438,55856.12,Urban,Video,Search Engine,9,0.3311,0.0408,False,True
+439,68789.6,Urban,Text,Search Engine,2,0.1896,0.0693,True,False
+440,32238.48,Suburban,Banner,Social Media,4,0.1546,0.0543,False,False
+441,46614.03,Urban,Banner,Search Engine,5,0.3504,0.0749,False,False
+442,51961.94,Urban,Video,Search Engine,7,0.0391,0.0489,False,True
+443,57047.15,Rural,Native,Social Media,5,0.1396,0.0426,False,False
+444,63706.63,Suburban,Native,Social Media,7,0.0123,0.039,False,False
+445,53760.38,Urban,Native,Website,4,0.3494,0.0403,False,False
+446,19677.91,Urban,Banner,Search Engine,3,0.133,0.0433,False,False
+447,46112.71,Urban,Banner,Search Engine,4,0.4522,0.0459,False,False
+448,30069.65,Rural,Video,Website,3,0.0608,0.0408,False,True
+449,71926.71,Urban,Native,Social Media,7,0.4594,0.0624,False,False
+450,56067.9,Suburban,Video,Social Media,4,0.1417,0.0452,False,True
+451,48106.28,Rural,Native,Search Engine,7,0.1341,0.0673,False,False
+452,59623.68,Suburban,Banner,Search Engine,9,0.0756,0.0469,False,False
+453,33328.94,Rural,Video,Website,3,0.2054,0.0492,False,True
+454,59473.79,Suburban,Video,Search Engine,4,0.222,0.0384,False,True
+455,44115.02,Urban,Native,Search Engine,4,0.1292,0.0779,False,False
+456,69017.85,Suburban,Text,Website,5,0.1019,0.071,True,False
+457,16079.11,Suburban,Text,Search Engine,5,0.1362,0.0744,True,False
+458,52077.82,Urban,Banner,Social Media,10,0.2607,0.0292,False,False
+459,33442.76,Rural,Text,Social Media,2,0.219,0.0617,True,False
+460,60767.21,Suburban,Text,Website,4,0.1657,0.0198,True,False
+461,50272.93,Suburban,Video,Website,2,0.2103,0.0917,False,True
+462,32977.86,Rural,Text,Social Media,8,0.5576,0.0404,True,False
+463,29536.31,Urban,Native,Social Media,3,0.1336,0.0773,False,False
+464,16543.76,Urban,Banner,Search Engine,4,0.169,0.0207,False,False
+465,73608.96,Rural,Text,Website,6,0.1078,0.0349,True,False
+466,52491.21,Suburban,Banner,Website,6,0.1678,0.026,False,False
+467,32883.51,Suburban,Video,Social Media,3,0.4674,0.0369,False,True
+468,70892.98,Rural,Banner,Social Media,7,0.199,0.0218,False,False
+469,57069.65,Urban,Native,Website,8,0.2734,0.0348,False,False
+470,32983.01,Suburban,Text,Social Media,8,0.0419,0.0471,True,False
+471,52158.99,Rural,Banner,Search Engine,5,0.0393,0.0401,False,False
+472,28071.48,Suburban,Native,Search Engine,0,0.0878,0.0655,False,False
+473,50315.69,Rural,Video,Website,4,0.3274,0.0272,False,True
+474,77121.5,Suburban,Native,Search Engine,3,0.2533,0.0461,False,False
+475,49935.24,Urban,Native,Social Media,5,0.422,0.0364,False,False
+476,28271.16,Suburban,Text,Search Engine,5,0.1511,0.0483,True,False
+477,36782.69,Rural,Banner,Search Engine,6,0.1999,0.047,False,False
+478,64799.27,Rural,Native,Search Engine,4,0.059,0.0699,False,False
+479,50463.8,Suburban,Native,Search Engine,4,0.3356,0.0498,False,False
+480,68209.12,Rural,Native,Website,6,0.0646,0.0457,False,False
+481,63331.01,Urban,Banner,Social Media,2,0.4998,0.0422,False,False
+482,44422.42,Suburban,Video,Social Media,4,0.1363,0.0443,False,True
+483,40798.2,Suburban,Native,Social Media,9,0.4928,0.0403,False,False
+484,76908.06,Urban,Video,Website,5,0.0409,0.0499,False,True
+485,49125.29,Rural,Video,Social Media,3,0.0933,0.0465,False,True
+486,87543.49,Urban,Video,Website,10,0.12,0.0578,False,True
+487,56761.7,Suburban,Native,Search Engine,7,0.3795,0.0697,False,False
+488,58602.39,Rural,Text,Website,5,0.2273,0.0408,True,False
+489,43067.26,Rural,Text,Search Engine,8,0.0928,0.0625,True,False
+490,46006.85,Suburban,Native,Search Engine,6,0.2738,0.0754,False,False
+491,13016.13,Rural,Banner,Search Engine,6,0.1615,0.0335,False,False
+492,34003.66,Suburban,Banner,Social Media,8,0.0689,0.0601,False,False
+493,47095.13,Suburban,Text,Website,9,0.3382,0.067,True,False
+494,59265.82,Rural,Video,Social Media,1,0.3594,0.0787,False,True
+495,77803.78,Suburban,Video,Website,1,0.2564,0.0236,False,True
+496,37188.69,Suburban,Banner,Website,7,0.0929,0.0496,False,False
+497,60096.32,Suburban,Text,Search Engine,5,0.2057,0.0826,True,False
+498,40167.0,Urban,Native,Social Media,8,0.1443,0.0764,False,False
+499,42412.42,Urban,Video,Website,3,0.2418,0.0672,False,True
+500,57001.86,Rural,Banner,Website,2,0.0751,0.0408,False,False
+501,36366.26,Rural,Native,Social Media,2,0.032,0.0926,False,False
+502,28981.46,Suburban,Text,Social Media,6,0.3685,0.0288,True,False
+503,61369.91,Rural,Text,Social Media,5,0.3345,0.046,True,False
+504,75758.61,Rural,Banner,Website,5,0.238,0.0342,False,False
+505,69524.45,Suburban,Video,Search Engine,4,0.4286,0.0619,False,True
+506,70588.19,Suburban,Video,Website,1,0.1789,0.0657,False,True
+507,9349.47,Rural,Text,Website,7,0.0171,0.052,True,False
+508,26135.89,Rural,Banner,Social Media,5,0.1978,0.0372,False,False
+509,27785.63,Suburban,Native,Social Media,5,0.0734,0.0535,False,False
+510,21030.11,Rural,Native,Website,4,0.0321,0.0378,False,False
+511,33607.91,Rural,Banner,Search Engine,3,0.1399,0.1097,False,False
+512,38372.02,Suburban,Banner,Website,6,0.1482,0.0621,False,False
+513,42003.25,Urban,Native,Search Engine,7,0.3809,0.0385,False,False
+514,5557.68,Urban,Native,Search Engine,6,0.1368,0.0452,False,False
+515,42227.5,Suburban,Text,Search Engine,5,0.2164,0.0413,True,False
+516,57674.36,Urban,Banner,Search Engine,7,0.3302,0.0793,False,False
+517,68729.03,Urban,Text,Website,7,0.235,0.0592,True,False
+518,17829.64,Suburban,Banner,Social Media,6,0.0999,0.0713,False,False
+519,56341.32,Rural,Video,Website,1,0.5186,0.0848,False,True
+520,83465.87,Suburban,Native,Website,4,0.1929,0.0611,False,False
+521,105085.55,Urban,Text,Website,5,0.3248,0.0715,True,False
+522,11924.42,Suburban,Native,Search Engine,6,0.5556,0.0394,False,False
+523,26468.31,Urban,Video,Search Engine,4,0.4511,0.0589,False,True
+524,58884.73,Suburban,Video,Social Media,5,0.19,0.0209,False,True
+525,43070.63,Urban,Text,Social Media,5,0.4303,0.0445,True,False
+526,54460.56,Urban,Video,Social Media,7,0.1162,0.0567,False,True
+527,66654.97,Rural,Video,Social Media,7,0.3769,0.0467,False,True
+528,57146.69,Suburban,Banner,Website,7,0.0385,0.0603,False,False
+529,78594.12,Urban,Native,Search Engine,9,0.1614,0.0473,False,False
+530,8103.46,Urban,Banner,Social Media,8,0.1043,0.0489,False,False
+531,68244.0,Suburban,Video,Social Media,4,0.1084,0.0413,False,True
+532,37930.53,Suburban,Banner,Social Media,4,0.2018,0.0051,False,False
+533,56533.45,Urban,Banner,Social Media,8,0.1541,0.0532,False,False
+534,75151.1,Suburban,Banner,Search Engine,6,0.0683,0.0662,False,False
+535,43261.55,Urban,Video,Social Media,11,0.109,0.0064,False,True
+536,40488.78,Rural,Native,Search Engine,5,0.0704,0.0303,False,False
+537,44252.17,Suburban,Text,Search Engine,8,0.2151,0.0729,True,False
+538,29418.7,Suburban,Native,Social Media,5,0.2966,0.0494,False,False
+539,46354.2,Rural,Video,Social Media,8,0.2288,0.0611,False,True
+540,23410.47,Rural,Text,Website,2,0.1161,0.0447,True,False
+541,62591.57,Suburban,Text,Social Media,4,0.0864,0.02,True,False
+542,62920.17,Rural,Video,Website,6,0.1131,0.0504,False,True
+543,40335.28,Rural,Banner,Website,8,0.3346,0.0488,False,False
+544,12221.37,Suburban,Native,Search Engine,5,0.137,0.0456,False,False
+545,97584.66,Urban,Video,Social Media,8,0.1647,0.0231,False,True
+546,38711.23,Urban,Banner,Website,7,0.2838,0.0488,False,False
+547,58454.38,Suburban,Video,Search Engine,6,0.0992,0.0366,False,True
+548,55732.53,Suburban,Banner,Website,3,0.52,0.0834,False,False
+549,92727.63,Rural,Text,Website,8,0.0482,0.0038,True,False
+550,10442.62,Rural,Video,Website,7,0.031,0.0236,False,True
+551,41320.71,Suburban,Native,Social Media,3,0.1156,0.0555,False,False
+552,34595.1,Urban,Text,Search Engine,2,0.2329,0.0627,True,False
+553,59748.18,Urban,Native,Search Engine,3,0.113,0.063,False,False
+554,69896.6,Suburban,Video,Social Media,4,0.1602,0.0501,False,True
+555,45392.1,Suburban,Video,Social Media,5,0.4382,0.043,False,True
+556,87058.23,Rural,Banner,Social Media,7,0.2036,0.0081,False,False
+557,27922.49,Rural,Text,Social Media,5,0.348,0.0263,True,False
+558,58402.14,Suburban,Text,Social Media,7,0.1604,0.0423,True,False
+559,60126.53,Rural,Native,Website,3,0.0811,0.0298,False,False
+560,44582.03,Urban,Text,Website,2,0.1364,0.0237,True,False
+561,32138.27,Urban,Native,Website,7,0.1475,0.0376,False,False
+562,63027.46,Suburban,Banner,Social Media,3,0.2223,0.0595,False,False
+563,60981.12,Suburban,Banner,Website,3,0.1707,0.0623,False,False
+564,37119.2,Urban,Banner,Website,9,0.0767,0.0648,False,False
+565,31643.37,Urban,Banner,Social Media,9,0.2554,0.069,False,False
+566,49778.69,Rural,Text,Website,10,0.2779,0.0646,True,False
+567,30816.68,Suburban,Banner,Search Engine,9,0.4207,0.063,False,False
+568,60947.37,Rural,Video,Social Media,6,0.1733,0.047,False,True
+569,36332.61,Urban,Native,Search Engine,4,0.5371,0.0174,False,False
+570,48457.94,Urban,Text,Search Engine,6,0.1719,0.0318,True,False
+571,63457.44,Urban,Video,Search Engine,4,0.0605,0.0154,False,True
+572,39384.19,Rural,Text,Search Engine,4,0.2256,0.0459,True,False
+573,56060.86,Urban,Native,Website,4,0.1638,0.0607,False,False
+574,68612.37,Suburban,Video,Search Engine,3,0.1568,0.0747,False,True
+575,47623.9,Rural,Video,Website,5,0.1165,0.0617,False,True
+576,36071.0,Suburban,Banner,Search Engine,10,0.2368,0.0348,False,False
+577,21851.73,Rural,Video,Website,4,0.2373,0.0494,False,True
+578,21141.04,Urban,Text,Website,8,0.2123,0.0377,True,False
+579,57164.3,Urban,Banner,Website,7,0.2171,0.0503,False,False
+580,23048.31,Rural,Native,Website,7,0.1161,0.0768,False,False
+581,62661.69,Rural,Video,Search Engine,8,0.0886,0.0663,False,True
+582,67678.62,Urban,Banner,Social Media,8,0.3567,0.0579,False,False
+583,56869.38,Urban,Banner,Search Engine,1,0.1846,0.0729,False,False
+584,71478.5,Urban,Video,Search Engine,3,0.2358,0.0493,False,True
+585,72514.37,Urban,Native,Website,4,0.1673,0.0364,False,False
+586,55529.99,Urban,Banner,Search Engine,4,0.1312,0.0683,False,False
+587,78534.71,Urban,Text,Website,4,0.2989,0.0447,True,False
+588,65037.45,Suburban,Banner,Search Engine,1,0.2981,0.0483,False,False
+589,30739.15,Urban,Video,Website,6,0.078,0.0661,False,True
+590,64722.31,Suburban,Banner,Search Engine,1,0.0711,0.0539,False,False
+591,37951.41,Urban,Banner,Search Engine,4,0.0666,0.053,False,False
+592,30230.2,Urban,Video,Social Media,6,0.3731,0.0685,False,True
+593,97775.1,Suburban,Video,Social Media,5,0.0387,0.0582,False,True
+594,43759.74,Suburban,Text,Search Engine,6,0.2591,0.0549,True,False
+595,50911.06,Rural,Native,Social Media,5,0.1929,0.0345,False,False
+596,37765.67,Rural,Native,Search Engine,4,0.0749,0.0723,False,False
+597,63659.56,Suburban,Video,Social Media,4,0.1462,0.0794,False,True
+598,65693.47,Suburban,Video,Social Media,7,0.1348,0.0219,False,True
+599,42408.27,Rural,Text,Website,5,0.3113,0.0312,True,False
+600,74649.67,Rural,Video,Search Engine,8,0.2379,0.0377,False,True
+601,80257.32,Rural,Banner,Website,8,0.1885,0.0256,False,False
+602,72330.94,Suburban,Native,Website,3,0.257,0.0533,False,False
+603,59670.82,Suburban,Video,Website,3,0.3901,0.0208,False,True
+604,13718.99,Suburban,Text,Website,3,0.1239,0.049,True,False
+605,67417.71,Suburban,Banner,Website,6,0.0381,0.0642,False,False
+606,54658.97,Rural,Text,Website,6,0.0822,0.0216,True,False
+607,62827.43,Rural,Video,Social Media,10,0.237,0.0946,False,True
+608,69740.26,Suburban,Video,Search Engine,5,0.2254,0.0424,False,True
+609,59905.52,Urban,Video,Website,6,0.2464,0.0695,False,True
+610,81848.09,Rural,Video,Website,7,0.2606,0.0282,False,True
+611,64453.6,Suburban,Video,Search Engine,2,0.1413,0.0754,False,True
+612,65829.51,Rural,Text,Social Media,4,0.2104,0.0513,True,False
+613,57402.92,Suburban,Banner,Search Engine,7,0.4508,0.0282,False,False
+614,30792.2,Rural,Banner,Social Media,5,0.5558,0.0368,False,False
+615,41906.78,Urban,Native,Search Engine,5,0.2027,0.0577,False,False
+616,66713.21,Urban,Text,Search Engine,2,0.2367,0.0583,True,False
+617,54992.93,Suburban,Native,Social Media,5,0.2364,0.0129,False,False
+618,34784.89,Urban,Banner,Website,6,0.4145,0.0328,False,False
+619,39652.83,Rural,Text,Website,10,0.2828,0.0443,True,False
+620,39230.57,Urban,Banner,Website,4,0.1947,0.049,False,False
+621,31039.02,Suburban,Banner,Website,8,0.0495,0.0338,False,False
+622,22661.77,Urban,Text,Social Media,7,0.1281,0.046,True,False
+623,24584.34,Suburban,Video,Social Media,8,0.3363,0.0489,False,True
+624,65191.75,Suburban,Native,Social Media,6,0.0401,0.0717,False,False
+625,37465.16,Suburban,Text,Website,8,0.4839,0.1272,True,False
+626,39439.66,Suburban,Text,Social Media,1,0.1535,0.068,True,False
+627,36389.04,Suburban,Video,Social Media,8,0.4234,0.0334,False,True
+628,65590.29,Suburban,Video,Website,4,0.1621,0.0574,False,True
+629,72757.62,Rural,Native,Search Engine,7,0.2396,0.0479,False,False
+630,65204.38,Suburban,Banner,Website,4,0.0938,0.0517,False,False
+631,77907.59,Rural,Text,Website,4,0.2753,0.0664,True,False
+632,78791.45,Rural,Text,Social Media,8,0.1763,0.042,True,False
+633,58723.31,Rural,Native,Website,8,0.0752,0.0379,False,False
+634,17904.68,Suburban,Native,Social Media,2,0.134,0.0582,False,False
+635,69318.76,Rural,Text,Website,12,0.2248,0.0448,True,False
+636,47646.87,Suburban,Native,Social Media,3,0.0595,0.0248,False,False
+637,35815.28,Suburban,Text,Website,4,0.0642,0.0662,True,False
+638,55904.99,Urban,Video,Search Engine,3,0.1949,0.0735,False,True
+639,75976.37,Urban,Video,Search Engine,6,0.0967,0.0751,False,True
+640,81697.13,Rural,Native,Social Media,8,0.3852,0.0392,False,False
+641,35600.92,Rural,Text,Website,4,0.3532,0.063,True,False
+642,75140.18,Urban,Video,Website,1,0.1684,0.0469,False,True
+643,56453.51,Rural,Native,Website,2,0.15,0.0205,False,False
+644,71371.08,Rural,Text,Search Engine,10,0.3526,0.0525,True,False
+645,45305.48,Suburban,Native,Website,9,0.3292,0.0487,False,False
+646,45156.89,Rural,Video,Search Engine,5,0.2216,0.0309,False,True
+647,60750.85,Suburban,Text,Social Media,7,0.1472,0.0406,True,False
+648,46289.84,Suburban,Native,Search Engine,5,0.0453,0.0128,False,False
+649,33688.06,Suburban,Text,Social Media,4,0.3197,0.0788,True,False
+650,29935.67,Urban,Text,Social Media,2,0.2684,0.0498,True,False
+651,84208.69,Suburban,Video,Website,7,0.1434,0.0423,False,True
+652,41526.29,Suburban,Video,Website,5,0.3349,0.0209,False,True
+653,65059.43,Rural,Native,Social Media,5,0.177,0.0191,False,False
+654,31616.74,Urban,Video,Website,5,0.106,0.0289,False,True
+655,57282.16,Rural,Banner,Search Engine,7,0.1958,0.0756,False,False
+656,5998.6,Suburban,Banner,Website,6,0.3626,0.0725,False,False
+657,43972.78,Urban,Native,Website,4,0.4321,0.0232,False,False
+658,101863.79,Suburban,Banner,Search Engine,6,0.1317,0.0344,False,False
+659,53570.03,Suburban,Banner,Search Engine,8,0.1595,0.0725,False,False
+660,31421.4,Suburban,Banner,Social Media,3,0.1462,0.0744,False,False
+661,65516.65,Urban,Native,Social Media,4,0.2034,0.0579,False,False
+662,39615.2,Rural,Text,Social Media,6,0.111,0.0391,True,False
+663,58575.4,Urban,Native,Social Media,0,0.1033,0.045,False,False
+664,21390.01,Urban,Text,Website,3,0.1585,0.0236,True,False
+665,62294.74,Rural,Video,Search Engine,7,0.1918,0.037,False,True
+666,21368.67,Rural,Banner,Social Media,9,0.1261,0.0605,False,False
+667,47930.96,Rural,Native,Website,3,0.5508,0.0182,False,False
+668,81527.62,Suburban,Video,Social Media,2,0.1687,0.0243,False,True
+669,8864.48,Urban,Native,Social Media,5,0.1693,0.0263,False,False
+670,50259.13,Urban,Video,Website,2,0.1194,0.0763,False,True
+671,41771.47,Urban,Native,Search Engine,2,0.2195,0.0546,False,False
+672,56793.87,Urban,Banner,Website,6,0.2403,0.0635,False,False
+673,36709.0,Urban,Banner,Social Media,8,0.124,0.0838,False,False
+674,44366.61,Suburban,Banner,Website,3,0.1223,0.04,False,False
+675,55566.11,Urban,Video,Search Engine,6,0.0381,0.0451,False,True
+676,80055.37,Urban,Native,Search Engine,6,0.3082,0.0076,False,False
+677,65893.5,Urban,Text,Social Media,6,0.4107,0.0182,True,False
+678,28068.98,Suburban,Text,Search Engine,9,0.0367,0.0554,True,False
+679,63927.34,Rural,Native,Website,6,0.0524,0.0613,False,False
+680,10845.29,Rural,Video,Website,5,0.3152,0.0591,False,True
+681,65075.64,Urban,Text,Search Engine,3,0.4307,0.0106,True,False
+682,45738.97,Suburban,Video,Social Media,7,0.0285,0.0719,False,True
+683,39257.6,Rural,Video,Website,7,0.1292,0.0432,False,True
+684,43532.02,Suburban,Text,Social Media,5,0.0469,0.0668,True,False
+685,43134.36,Rural,Text,Social Media,5,0.1381,0.0681,True,False
+686,36630.62,Rural,Native,Website,5,0.0958,0.0525,False,False
+687,74636.71,Suburban,Text,Website,7,0.1781,0.0435,True,False
+688,42345.18,Suburban,Banner,Search Engine,7,0.329,0.048,False,False
+689,19255.31,Rural,Video,Social Media,3,0.3309,0.039,False,True
+690,44702.85,Urban,Banner,Search Engine,3,0.144,0.0385,False,False
+691,50639.59,Suburban,Banner,Search Engine,4,0.4144,0.0516,False,False
+692,31649.06,Suburban,Native,Social Media,5,0.0707,0.0931,False,False
+693,73565.52,Urban,Video,Social Media,3,0.0645,0.0313,False,True
+694,44558.56,Rural,Native,Search Engine,6,0.19,0.0654,False,False
+695,41063.12,Rural,Text,Search Engine,5,0.138,0.0225,True,False
+696,57787.2,Urban,Native,Website,6,0.2796,0.0111,False,False
+697,22107.93,Urban,Text,Search Engine,7,0.175,0.0188,True,False
+698,100989.56,Suburban,Banner,Search Engine,1,0.1235,0.0404,False,False
+699,38678.49,Urban,Native,Website,7,0.2687,0.0162,False,False
+700,37942.79,Suburban,Video,Search Engine,3,0.2734,0.0114,False,True
+701,39013.43,Rural,Text,Search Engine,8,0.1861,0.0585,True,False
+702,40816.03,Suburban,Banner,Search Engine,7,0.4117,0.0206,False,False
+703,20092.87,Rural,Text,Search Engine,5,0.1372,0.0743,True,False
+704,54940.14,Urban,Native,Website,1,0.1864,0.0565,False,False
+705,41545.98,Rural,Video,Website,7,0.0468,0.0452,False,True
+706,51453.05,Urban,Video,Website,6,0.0377,0.0657,False,True
+707,67579.4,Urban,Native,Search Engine,8,0.1018,0.0678,False,False
+708,75546.61,Rural,Native,Social Media,10,0.114,0.0135,False,False
+709,15911.77,Rural,Native,Search Engine,7,0.136,0.0436,False,False
+710,59999.72,Rural,Native,Search Engine,6,0.225,0.0833,False,False
+711,68768.72,Suburban,Native,Social Media,2,0.1243,0.0436,False,False
+712,50444.0,Rural,Video,Search Engine,6,0.0882,0.0555,False,True
+713,61694.36,Rural,Native,Social Media,6,0.0822,0.0442,False,False
+714,32369.0,Urban,Video,Search Engine,10,0.4081,0.0377,False,True
+715,67967.82,Suburban,Text,Website,6,0.1858,0.0463,True,False
+716,18096.32,Urban,Text,Social Media,5,0.1931,0.0531,True,False
+717,63696.31,Suburban,Native,Search Engine,0,0.0778,0.0363,False,False
+718,36634.72,Urban,Banner,Social Media,7,0.327,0.0773,False,False
+719,60312.9,Urban,Banner,Search Engine,4,0.0542,0.0838,False,False
+720,55246.07,Suburban,Video,Search Engine,5,0.3164,0.0387,False,True
+721,76778.77,Urban,Video,Social Media,9,0.1153,0.0607,False,True
+722,62810.18,Suburban,Native,Website,11,0.225,0.0658,False,False
+723,11057.53,Urban,Native,Website,4,0.181,0.0994,False,False
+724,118241.39,Urban,Banner,Social Media,6,0.1696,0.0372,False,False
+725,48047.49,Urban,Native,Social Media,5,0.0648,0.0182,False,False
+726,65863.11,Rural,Video,Website,5,0.1794,0.0669,False,True
+727,57063.79,Suburban,Text,Website,4,0.228,0.0283,True,False
+728,80139.22,Urban,Video,Social Media,6,0.3868,0.0288,False,True
+729,71489.98,Urban,Text,Website,7,0.1448,0.0253,True,False
+730,61453.84,Urban,Video,Search Engine,6,0.3991,0.0378,False,True
+731,40713.36,Urban,Video,Social Media,4,0.33,0.0398,False,True
+732,5447.54,Urban,Native,Social Media,3,0.0874,0.0342,False,False
+733,96072.27,Suburban,Native,Website,1,0.177,0.0576,False,False
+734,17078.99,Suburban,Banner,Website,5,0.0804,0.066,False,False
+735,25631.01,Rural,Banner,Search Engine,4,0.1387,0.0744,False,False
+736,44387.21,Rural,Banner,Website,3,0.1745,0.0609,False,False
+737,64540.14,Urban,Banner,Social Media,4,0.1612,0.0418,False,False
+738,75416.34,Urban,Text,Social Media,6,0.1206,0.0457,True,False
+739,47214.47,Rural,Video,Search Engine,7,0.0947,0.0662,False,True
+740,21650.06,Suburban,Text,Social Media,4,0.365,0.0665,True,False
+741,11154.03,Urban,Banner,Search Engine,2,0.0689,0.0518,False,False
+742,50064.8,Rural,Text,Website,6,0.5978,0.0337,True,False
+743,46774.98,Suburban,Banner,Website,5,0.1411,0.073,False,False
+744,33560.58,Rural,Banner,Search Engine,2,0.3307,0.0536,False,False
+745,54044.18,Urban,Text,Website,5,0.125,0.0379,True,False
+746,8016.26,Rural,Native,Search Engine,2,0.2624,0.0403,False,False
+747,29668.81,Rural,Banner,Search Engine,9,0.1014,0.0313,False,False
+748,22700.62,Urban,Native,Social Media,6,0.1253,0.025,False,False
+749,52815.22,Suburban,Video,Website,7,0.3758,0.0706,False,True
+750,44654.21,Rural,Text,Website,10,0.3303,0.0574,True,False
+751,83319.89,Urban,Text,Social Media,5,0.0629,0.0539,True,False
+752,81377.62,Suburban,Banner,Search Engine,6,0.0923,0.0483,False,False
+753,39150.2,Suburban,Text,Search Engine,3,0.0625,0.0676,True,False
+754,46861.18,Suburban,Native,Social Media,6,0.2722,0.0397,False,False
+755,35869.66,Suburban,Banner,Social Media,2,0.2286,0.0589,False,False
+756,43049.77,Urban,Native,Search Engine,5,0.131,0.0352,False,False
+757,52946.98,Urban,Video,Website,4,0.1436,0.0639,False,True
+758,47731.4,Suburban,Text,Website,4,0.2699,0.0574,True,False
+759,70734.46,Urban,Banner,Social Media,6,0.2175,0.0424,False,False
+760,67743.62,Suburban,Banner,Website,3,0.4309,0.0533,False,False
+761,17324.95,Urban,Banner,Website,5,0.0993,0.0587,False,False
+762,50355.15,Rural,Text,Search Engine,4,0.0781,0.0602,True,False
+763,51514.45,Rural,Banner,Search Engine,5,0.282,0.0695,False,False
+764,45214.81,Rural,Native,Website,4,0.0575,0.0625,False,False
+765,21400.46,Urban,Video,Social Media,5,0.2585,0.0576,False,True
+766,37545.46,Urban,Banner,Website,5,0.2181,0.0772,False,False
+767,65055.94,Urban,Banner,Social Media,6,0.204,0.0752,False,False
+768,76583.5,Suburban,Video,Search Engine,7,0.4063,0.076,False,True
+769,49169.95,Suburban,Text,Website,3,0.0807,0.0638,True,False
+770,50985.25,Rural,Banner,Search Engine,4,0.053,0.0603,False,False
+771,66080.41,Suburban,Text,Social Media,4,0.1513,0.0416,True,False
+772,59736.07,Urban,Banner,Social Media,3,0.191,0.0472,False,False
+773,57962.66,Suburban,Video,Social Media,4,0.0476,0.0527,False,True
+774,88656.7,Rural,Banner,Website,5,0.1349,0.0292,False,False
+775,56812.99,Rural,Banner,Search Engine,3,0.3407,0.0884,False,False
+776,62893.58,Suburban,Text,Social Media,5,0.0559,0.0791,True,False
+777,40118.54,Rural,Video,Social Media,4,0.1151,0.0351,False,True
+778,46637.91,Suburban,Banner,Social Media,3,0.1193,0.0562,False,False
+779,62589.9,Urban,Banner,Social Media,11,0.1273,0.069,False,False
+780,58982.76,Urban,Video,Social Media,6,0.0389,0.0516,False,True
+781,37790.78,Suburban,Banner,Website,5,0.2892,0.0095,False,False
+782,98216.91,Urban,Native,Search Engine,5,0.2687,0.0677,False,False
+783,57918.41,Rural,Video,Search Engine,5,0.1046,0.0455,False,True
+784,28207.5,Urban,Text,Search Engine,3,0.2776,0.0234,True,False
+785,75836.56,Suburban,Text,Social Media,6,0.3498,0.0538,True,False
+786,36055.11,Urban,Video,Website,5,0.1112,0.0468,False,True
+787,38840.89,Suburban,Text,Social Media,5,0.2127,0.0427,True,False
+788,77083.63,Suburban,Video,Search Engine,4,0.1048,0.0363,False,True
+789,28665.43,Urban,Banner,Website,6,0.0745,0.0449,False,False
+790,64326.74,Urban,Video,Website,10,0.2507,0.0637,False,True
+791,72160.86,Rural,Text,Website,3,0.064,0.0697,True,False
+792,80508.22,Suburban,Banner,Social Media,2,0.2977,0.0634,False,False
+793,49763.03,Urban,Text,Website,5,0.1442,0.0561,True,False
+794,45182.41,Urban,Video,Social Media,4,0.3125,0.0408,False,True
+795,36641.3,Urban,Text,Search Engine,4,0.2539,0.0468,True,False
+796,62848.61,Suburban,Video,Search Engine,9,0.252,0.0388,False,True
+797,31674.56,Suburban,Native,Social Media,4,0.1715,0.0714,False,False
+798,97171.95,Suburban,Banner,Search Engine,3,0.2518,0.0728,False,False
+799,74532.98,Suburban,Text,Social Media,9,0.4882,0.0722,True,False
+800,52665.0,Urban,Native,Website,5,0.2327,0.0747,False,False
+801,52275.75,Rural,Banner,Search Engine,3,0.1305,0.0289,False,False
+802,73958.34,Urban,Text,Search Engine,2,0.458,0.0622,True,False
+803,56487.94,Urban,Video,Website,2,0.3486,0.053,False,True
+804,44975.46,Suburban,Text,Search Engine,4,0.3392,0.0777,True,False
+805,52921.71,Rural,Banner,Website,7,0.3313,0.0479,False,False
+806,32521.0,Suburban,Video,Social Media,0,0.344,0.0358,False,True
+807,41852.26,Suburban,Text,Website,6,0.0141,0.0362,True,False
+808,23957.66,Suburban,Text,Search Engine,3,0.2518,0.0573,True,False
+809,52426.91,Suburban,Banner,Search Engine,6,0.131,0.0242,False,False
+810,56184.07,Suburban,Banner,Website,9,0.0931,0.0283,False,False
+811,50668.05,Urban,Video,Social Media,8,0.3369,0.0524,False,True
+812,116476.07,Rural,Native,Website,4,0.0986,0.0454,False,False
+813,55985.48,Suburban,Banner,Website,0,0.0279,0.0001,False,False
+814,55574.45,Suburban,Native,Website,8,0.1924,0.0507,False,False
+815,69828.57,Urban,Video,Website,10,0.0666,0.0692,False,True
+816,50347.3,Rural,Text,Website,2,0.4403,0.0512,True,False
+817,66581.87,Rural,Banner,Search Engine,5,0.3482,0.0801,False,False
+818,39572.54,Urban,Text,Search Engine,3,0.0564,0.0643,True,False
+819,28972.92,Rural,Banner,Social Media,5,0.185,0.0392,False,False
+820,58954.92,Urban,Text,Website,3,0.3804,0.0571,True,False
+821,51490.88,Urban,Banner,Social Media,8,0.2441,0.0555,False,False
+822,35647.83,Suburban,Banner,Search Engine,3,0.0518,0.0738,False,False
+823,62860.83,Suburban,Text,Social Media,6,0.0683,0.0789,True,False
+824,51142.75,Rural,Video,Social Media,5,0.0679,0.0851,False,True
+825,62593.39,Rural,Banner,Website,6,0.1339,0.0819,False,False
+826,76122.4,Suburban,Native,Social Media,5,0.1345,0.0187,False,False
+827,32393.33,Suburban,Banner,Website,3,0.1172,0.1066,False,False
+828,79403.08,Rural,Text,Search Engine,7,0.1605,0.0658,True,False
+829,61065.05,Rural,Native,Website,4,0.1903,0.0525,False,False
+830,65271.3,Urban,Text,Search Engine,3,0.0271,0.0497,True,False
+831,76920.39,Urban,Native,Website,5,0.247,0.0506,False,False
+832,65726.37,Rural,Banner,Search Engine,4,0.0598,0.0516,False,False
+833,37704.02,Urban,Banner,Search Engine,6,0.422,0.0382,False,False
+834,70698.61,Rural,Text,Search Engine,4,0.1942,0.0481,True,False
+835,30407.84,Rural,Video,Social Media,4,0.1766,0.0739,False,True
+836,39694.96,Urban,Banner,Search Engine,1,0.0681,0.0759,False,False
+837,99110.32,Urban,Banner,Website,6,0.2919,0.039,False,False
+838,80102.56,Urban,Text,Social Media,7,0.0715,0.0541,True,False
+839,21609.03,Rural,Banner,Social Media,6,0.0612,0.0439,False,False
+840,82780.09,Urban,Banner,Social Media,4,0.3052,0.0733,False,False
+841,71858.6,Urban,Video,Website,7,0.2946,0.0506,False,True
+842,60028.9,Suburban,Banner,Social Media,3,0.1735,0.071,False,False
+843,61669.3,Rural,Video,Social Media,5,0.2259,0.0428,False,True
+844,31326.76,Urban,Native,Social Media,3,0.4279,0.0283,False,False
+845,28911.13,Suburban,Video,Website,6,0.1847,0.065,False,True
+846,41018.97,Suburban,Native,Website,6,0.2242,0.042,False,False
+847,18985.78,Suburban,Native,Search Engine,4,0.1909,0.0637,False,False
+848,57753.71,Urban,Banner,Social Media,3,0.288,0.0579,False,False
+849,75219.78,Urban,Video,Search Engine,5,0.4649,0.0341,False,True
+850,50475.41,Urban,Native,Search Engine,6,0.1535,0.0386,False,False
+851,57021.63,Urban,Video,Website,5,0.0999,0.0375,False,True
+852,45450.55,Urban,Video,Website,7,0.2718,0.0108,False,True
+853,68899.64,Urban,Native,Social Media,3,0.4309,0.0343,False,False
+854,14294.5,Rural,Banner,Website,3,0.123,0.0536,False,False
+855,74961.75,Rural,Native,Website,5,0.1447,0.0371,False,False
+856,72650.53,Urban,Native,Search Engine,5,0.2486,0.0816,False,False
+857,58647.64,Rural,Video,Website,6,0.098,0.0431,False,True
+858,37502.0,Urban,Text,Search Engine,6,0.1827,0.0406,True,False
+859,62996.04,Urban,Text,Search Engine,6,0.2405,0.0747,True,False
+860,46843.87,Rural,Video,Social Media,9,0.1847,0.0386,False,True
+861,68925.89,Urban,Native,Search Engine,4,0.0685,0.0781,False,False
+862,51052.1,Urban,Banner,Search Engine,7,0.28,0.0588,False,False
+863,52250.29,Rural,Banner,Website,6,0.3203,0.0602,False,False
+864,63976.57,Suburban,Native,Social Media,8,0.0588,0.0681,False,False
+865,40700.5,Rural,Native,Search Engine,6,0.3335,0.0446,False,False
+866,28753.2,Suburban,Text,Social Media,8,0.1508,0.0749,True,False
+867,42373.34,Urban,Native,Social Media,5,0.0409,0.0386,False,False
+868,78673.04,Urban,Text,Social Media,2,0.2645,0.0473,True,False
+869,78961.48,Rural,Video,Social Media,8,0.1811,0.0692,False,True
+870,57876.72,Urban,Video,Search Engine,3,0.4232,0.05,False,True
+871,72948.25,Urban,Banner,Website,5,0.0525,0.0368,False,False
+872,65910.01,Urban,Text,Website,5,0.0449,0.0271,True,False
+873,76810.52,Urban,Native,Website,5,0.0966,0.0525,False,False
+874,82520.04,Urban,Text,Social Media,2,0.1533,0.0802,True,False
+875,42334.88,Suburban,Native,Search Engine,6,0.0857,0.0601,False,False
+876,34460.51,Urban,Banner,Website,6,0.0623,0.0416,False,False
+877,4857.95,Urban,Native,Website,6,0.1739,0.0465,False,False
+878,59062.67,Rural,Video,Social Media,3,0.0814,0.0748,False,True
+879,41619.39,Urban,Video,Social Media,9,0.1197,0.0602,False,True
+880,61940.69,Urban,Text,Social Media,1,0.2774,0.0653,True,False
+881,74472.65,Urban,Text,Search Engine,4,0.1078,0.0483,True,False
+882,52451.48,Urban,Banner,Search Engine,7,0.0556,0.0471,False,False
+883,73936.55,Urban,Native,Search Engine,2,0.1279,0.0392,False,False
+884,47290.09,Suburban,Banner,Social Media,8,0.0695,0.0425,False,False
+885,51321.38,Rural,Video,Search Engine,6,0.2103,0.0453,False,True
+886,25221.39,Urban,Text,Search Engine,6,0.1518,0.0583,True,False
+887,62102.96,Urban,Native,Website,4,0.3193,0.0114,False,False
+888,48910.05,Urban,Text,Search Engine,8,0.2603,0.0673,True,False
+889,47726.27,Rural,Native,Website,5,0.1991,0.0347,False,False
+890,50975.1,Rural,Native,Website,3,0.3375,0.0186,False,False
+891,55679.68,Rural,Banner,Social Media,5,0.0245,0.0465,False,False
+892,50290.69,Urban,Banner,Search Engine,5,0.2821,0.0689,False,False
+893,47112.14,Urban,Banner,Social Media,6,0.0628,0.0738,False,False
+894,54986.1,Rural,Video,Search Engine,6,0.235,0.0396,False,True
+895,6021.79,Urban,Video,Social Media,5,0.1553,0.0611,False,True
+896,15153.6,Urban,Banner,Search Engine,3,0.084,0.0568,False,False
+897,40014.99,Rural,Video,Social Media,3,0.37,0.0599,False,True
+898,56503.6,Suburban,Banner,Website,6,0.3082,0.0624,False,False
+899,68160.01,Urban,Video,Website,7,0.2063,0.0799,False,True
+900,64404.0,Rural,Banner,Website,8,0.035,0.064,False,False
+901,38913.4,Urban,Video,Search Engine,7,0.3134,0.0364,False,True
+902,51010.5,Suburban,Native,Social Media,2,0.209,0.0261,False,False
+903,43698.07,Rural,Video,Website,8,0.1269,0.0557,False,True
+904,58395.73,Suburban,Banner,Social Media,4,0.2386,0.0357,False,False
+905,44103.06,Rural,Text,Search Engine,4,0.0976,0.0386,True,False
+906,49187.46,Urban,Native,Search Engine,4,0.1722,0.057,False,False
+907,39467.42,Suburban,Native,Social Media,7,0.1639,0.0847,False,False
+908,16433.22,Urban,Text,Website,7,0.4559,0.0549,True,False
+909,65771.56,Rural,Native,Website,2,0.0837,0.0739,False,False
+910,51333.23,Suburban,Native,Search Engine,3,0.2059,0.0708,False,False
+911,88961.54,Suburban,Native,Social Media,5,0.0675,0.0408,False,False
+912,36675.16,Suburban,Text,Website,1,0.258,0.0345,True,False
+913,55429.43,Suburban,Text,Website,3,0.1478,0.0559,True,False
+914,28754.22,Urban,Native,Search Engine,4,0.3377,0.0563,False,False
+915,43511.66,Rural,Native,Search Engine,4,0.0706,0.0546,False,False
+916,72170.51,Rural,Native,Social Media,3,0.3722,0.0272,False,False
+917,50528.23,Rural,Video,Social Media,4,0.0738,0.0581,False,True
+918,49656.22,Suburban,Native,Search Engine,8,0.0904,0.042,False,False
+919,41189.88,Rural,Video,Search Engine,5,0.1001,0.0473,False,True
+920,54480.18,Urban,Banner,Social Media,5,0.0485,0.0966,False,False
+921,31692.69,Suburban,Text,Search Engine,10,0.165,0.0346,True,False
+922,32495.41,Suburban,Text,Website,6,0.1696,0.0704,True,False
+923,56137.09,Suburban,Native,Social Media,6,0.1145,0.0419,False,False
+924,71584.98,Suburban,Video,Website,5,0.5728,0.0689,False,True
+925,30216.37,Suburban,Text,Search Engine,6,0.2522,0.0464,True,False
+926,36937.19,Urban,Native,Website,7,0.0216,0.067,False,False
+927,59954.61,Rural,Text,Website,4,0.0579,0.0568,True,False
+928,45455.17,Rural,Video,Search Engine,5,0.2806,0.0748,False,True
+929,33945.73,Rural,Native,Website,1,0.0838,0.0228,False,False
+930,66961.75,Rural,Banner,Social Media,6,0.2542,0.0749,False,False
+931,46124.44,Urban,Banner,Social Media,3,0.1381,0.0364,False,False
+932,52183.71,Urban,Video,Social Media,7,0.2362,0.062,False,True
+933,27205.31,Rural,Video,Social Media,4,0.3242,0.059,False,True
+934,17524.03,Suburban,Native,Social Media,4,0.0599,0.0659,False,False
+935,58620.19,Urban,Banner,Search Engine,5,0.1743,0.0418,False,False
+936,59164.2,Suburban,Native,Search Engine,7,0.2172,0.0907,False,False
+937,52193.0,Rural,Banner,Social Media,5,0.0882,0.0776,False,False
+938,45900.35,Rural,Banner,Website,3,0.1384,0.036,False,False
+939,47785.4,Urban,Native,Social Media,10,0.1328,0.0839,False,False
+940,50111.91,Urban,Banner,Website,4,0.1149,0.0738,False,False
+941,84942.0,Rural,Native,Website,1,0.4077,0.0529,False,False
+942,61256.72,Suburban,Video,Search Engine,4,0.2282,0.0031,False,True
+943,53158.97,Suburban,Text,Search Engine,3,0.2304,0.0525,True,False
+944,37816.04,Suburban,Native,Website,5,0.1749,0.0383,False,False
+945,37927.03,Urban,Text,Social Media,3,0.2012,0.0236,True,False
+946,73728.87,Rural,Text,Website,5,0.3331,0.083,True,False
+947,45526.22,Rural,Text,Social Media,4,0.3459,0.0451,True,False
+948,44521.45,Suburban,Video,Website,6,0.3314,0.0371,False,True
+949,39555.95,Rural,Banner,Social Media,10,0.199,0.0303,False,False
+950,61761.69,Rural,Text,Search Engine,3,0.243,0.0515,True,False
+951,48829.65,Urban,Banner,Social Media,3,0.3119,0.0486,False,False
+952,31357.91,Urban,Native,Social Media,4,0.2264,0.0519,False,False
+953,11067.93,Rural,Banner,Website,3,0.0806,0.0294,False,False
+954,44521.79,Rural,Video,Search Engine,6,0.13,0.0525,False,True
+955,47341.58,Rural,Banner,Search Engine,4,0.2982,0.0576,False,False
+956,51425.82,Rural,Native,Social Media,6,0.2718,0.0682,False,False
+957,69396.9,Rural,Banner,Social Media,7,0.2937,0.0602,False,False
+958,14660.07,Urban,Text,Search Engine,8,0.3714,0.051,True,False
+959,41602.17,Rural,Native,Social Media,4,0.2408,0.0782,False,False
+960,63950.88,Urban,Video,Social Media,12,0.0971,0.0434,False,True
+961,43221.37,Suburban,Banner,Search Engine,7,0.1532,0.048,False,False
+962,35892.92,Suburban,Banner,Website,10,0.2997,0.0487,False,False
+963,56469.35,Suburban,Banner,Website,6,0.1749,0.0599,False,False
+964,42653.93,Urban,Text,Social Media,4,0.3027,0.0486,True,False
+965,67902.81,Rural,Native,Website,6,0.0833,0.0503,False,False
+966,25602.34,Urban,Video,Search Engine,7,0.2009,0.0444,False,True
+967,48662.55,Suburban,Video,Social Media,6,0.0502,0.0533,False,True
+968,61779.17,Suburban,Native,Social Media,4,0.3378,0.0412,False,False
+969,46115.67,Urban,Video,Search Engine,3,0.1771,0.0836,False,True
+970,46559.04,Suburban,Banner,Search Engine,5,0.2848,0.0686,False,False
+971,22874.99,Urban,Text,Website,4,0.1421,0.0489,True,False
+972,30653.22,Suburban,Native,Website,10,0.122,0.0548,False,False
+973,54148.97,Urban,Banner,Social Media,3,0.1561,0.0383,False,False
+974,45535.05,Rural,Native,Search Engine,5,0.2853,0.055,False,False
+975,57998.01,Suburban,Banner,Search Engine,5,0.0726,0.08,False,False
+976,53014.01,Urban,Video,Social Media,7,0.163,0.0844,False,True
+977,49722.14,Rural,Text,Website,5,0.1184,0.0479,True,False
+978,41850.19,Suburban,Text,Website,4,0.1367,0.0312,True,False
+979,71164.59,Suburban,Text,Social Media,7,0.4441,0.0447,True,False
+980,39205.02,Urban,Text,Website,5,0.1743,0.0383,True,False
+981,63848.99,Suburban,Banner,Search Engine,3,0.3306,0.0576,False,False
+982,41425.06,Rural,Video,Search Engine,4,0.2281,0.0416,False,True
+983,54571.21,Suburban,Video,Social Media,10,0.039,0.0648,False,True
+984,55569.9,Suburban,Native,Search Engine,4,0.2621,0.0458,False,False
+985,13847.19,Suburban,Text,Social Media,2,0.058,0.0839,True,False
+986,48599.01,Suburban,Banner,Search Engine,5,0.001,0.0243,False,False
+987,32457.36,Suburban,Native,Social Media,4,0.0042,0.0725,False,False
+988,48370.91,Rural,Banner,Website,9,0.1702,0.0495,False,False
+989,60195.99,Urban,Video,Search Engine,4,0.3113,0.0552,False,True
+990,61765.95,Urban,Native,Social Media,7,0.1032,0.0437,False,False
+991,63594.64,Rural,Banner,Website,9,0.2982,0.0498,False,False
+992,33819.13,Urban,Text,Search Engine,3,0.1194,0.0702,True,False
+993,81249.53,Urban,Banner,Website,3,0.1993,0.0,False,False
+994,74492.09,Suburban,Banner,Social Media,6,0.2588,0.0893,False,False
+995,28451.92,Urban,Video,Social Media,2,0.1181,0.0566,False,True
+996,47252.46,Rural,Video,Search Engine,1,0.1399,0.0768,False,True
+997,75932.53,Suburban,Native,Social Media,9,0.0013,0.0374,False,False
+998,45006.32,Suburban,Banner,Search Engine,4,0.407,0.0499,False,False
+999,49196.85,Rural,Banner,Website,5,0.1912,0.0362,False,False
+1000,31662.96,Urban,Video,Website,3,0.4995,0.0327,False,True
+1001,32600.93,Suburban,Text,Social Media,2,0.6433,0.0245,True,False
+1002,52357.08,Rural,Text,Social Media,5,0.2344,0.0565,True,False
+1003,34931.87,Suburban,Video,Social Media,4,0.2677,0.0347,False,True
+1004,91237.21,Rural,Text,Social Media,4,0.2803,0.0403,True,False
+1005,44411.0,Suburban,Video,Social Media,2,0.0679,0.0596,False,True
+1006,66574.29,Rural,Text,Social Media,5,0.572,0.0703,True,False
+1007,55399.93,Rural,Native,Social Media,6,0.164,0.0548,False,False
+1008,67359.72,Suburban,Banner,Social Media,3,0.1713,0.0579,False,False
+1009,48214.76,Urban,Native,Website,5,0.1763,0.0425,False,False
+1010,22436.26,Rural,Text,Social Media,4,0.0851,0.0576,True,False
+1011,29923.77,Suburban,Banner,Search Engine,3,0.1282,0.039,False,False
+1012,70431.8,Rural,Native,Social Media,2,0.2492,0.0405,False,False
+1013,70660.62,Rural,Text,Social Media,3,0.1218,0.0508,True,False
+1014,37904.73,Suburban,Video,Website,7,0.0176,0.0326,False,True
+1015,40496.63,Rural,Video,Website,3,0.4517,0.0335,False,True
+1016,47824.32,Suburban,Native,Website,3,0.1799,0.0906,False,False
+1017,67215.7,Urban,Native,Search Engine,6,0.1578,0.0593,False,False
+1018,18699.76,Urban,Text,Search Engine,4,0.2646,0.0372,True,False
+1019,33472.28,Rural,Banner,Search Engine,5,0.5534,0.0604,False,False
+1020,25210.01,Urban,Video,Search Engine,4,0.2024,0.0461,False,True
+1021,59508.6,Suburban,Text,Social Media,1,0.2541,0.0473,True,False
+1022,70344.48,Suburban,Text,Website,3,0.2153,0.0682,True,False
+1023,43328.88,Urban,Native,Social Media,7,0.1718,0.0654,False,False
+1024,58837.32,Suburban,Text,Search Engine,2,0.0806,0.0771,True,False
+1025,31117.53,Urban,Banner,Social Media,5,0.3824,0.0507,False,False
+1026,62443.0,Urban,Banner,Search Engine,3,0.0683,0.0413,False,False
+1027,57787.81,Rural,Text,Social Media,5,0.1894,0.0596,True,False
+1028,33392.01,Rural,Video,Search Engine,6,0.2773,0.0448,False,True
+1029,58873.64,Suburban,Banner,Search Engine,1,0.2099,0.0379,False,False
+1030,59250.19,Rural,Banner,Social Media,3,0.3522,0.0554,False,False
+1031,54130.68,Urban,Native,Website,7,0.2292,0.0596,False,False
+1032,62414.63,Suburban,Banner,Website,8,0.0257,0.0736,False,False
+1033,77419.9,Urban,Banner,Website,3,0.1149,0.0388,False,False
+1034,26771.52,Suburban,Native,Social Media,3,0.1376,0.0213,False,False
+1035,55452.67,Urban,Video,Website,8,0.1952,0.0716,False,True
+1036,62176.83,Suburban,Banner,Social Media,4,0.1123,0.0459,False,False
+1037,58414.13,Urban,Video,Search Engine,6,0.4568,0.0653,False,True
+1038,89099.82,Rural,Banner,Search Engine,5,0.0394,0.0792,False,False
+1039,57274.28,Rural,Text,Search Engine,5,0.0329,0.0415,True,False
+1040,42370.25,Urban,Text,Search Engine,4,0.0771,0.0139,True,False
+1041,29921.12,Rural,Video,Search Engine,9,0.3786,0.0446,False,True
+1042,51548.86,Suburban,Text,Search Engine,4,0.1319,0.0,True,False
+1043,51906.07,Urban,Native,Website,5,0.0955,0.0416,False,False
+1044,41181.34,Rural,Text,Website,0,0.1374,0.061,True,False
+1045,68535.98,Suburban,Text,Search Engine,6,0.3494,0.0177,True,False
+1046,11132.69,Urban,Banner,Search Engine,8,0.218,0.0626,False,False
+1047,29358.79,Urban,Banner,Social Media,9,0.3332,0.0488,False,False
+1048,73645.56,Urban,Text,Website,6,0.4598,0.0183,True,False
+1049,75875.73,Rural,Video,Search Engine,7,0.2035,0.0554,False,True
+1050,39407.01,Suburban,Text,Social Media,10,0.2125,0.0688,True,False
+1051,78965.93,Rural,Native,Social Media,3,0.1262,0.0688,False,False
+1052,48060.91,Urban,Text,Social Media,4,0.1784,0.0779,True,False
+1053,28197.36,Urban,Native,Website,3,0.1456,0.0466,False,False
+1054,36704.26,Rural,Banner,Website,6,0.1732,0.0345,False,False
+1055,8114.71,Suburban,Banner,Website,7,0.3113,0.0283,False,False
+1056,36903.93,Urban,Text,Website,3,0.2895,0.0525,True,False
+1057,61192.63,Urban,Native,Social Media,7,0.1351,0.0547,False,False
+1058,83245.85,Urban,Banner,Website,6,0.1039,0.0643,False,False
+1059,51877.02,Suburban,Banner,Search Engine,2,0.2416,0.0458,False,False
+1060,66662.24,Rural,Video,Search Engine,12,0.1818,0.0393,False,True
+1061,76120.4,Suburban,Video,Search Engine,10,0.1633,0.0332,False,True
+1062,69898.95,Urban,Video,Website,3,0.2098,0.0481,False,True
+1063,39875.19,Rural,Banner,Website,5,0.3881,0.0434,False,False
+1064,70068.56,Urban,Banner,Website,3,0.1856,0.0666,False,False
+1065,52067.35,Urban,Text,Social Media,1,0.2268,0.0768,True,False
+1066,20748.35,Urban,Native,Social Media,2,0.3207,0.076,False,False
+1067,62246.01,Urban,Banner,Social Media,3,0.0979,0.0575,False,False
+1068,52597.72,Rural,Video,Social Media,3,0.0961,0.033,False,True
+1069,32268.13,Rural,Banner,Search Engine,4,0.3997,0.0541,False,False
+1070,40233.98,Rural,Native,Website,3,0.2908,0.0764,False,False
+1071,44072.14,Urban,Text,Social Media,2,0.1684,0.0508,True,False
+1072,66998.62,Rural,Banner,Website,4,0.2054,0.0362,False,False
+1073,65638.83,Urban,Text,Website,8,0.0972,0.062,True,False
+1074,59850.93,Urban,Video,Social Media,4,0.0528,0.0584,False,True
+1075,27670.51,Suburban,Text,Website,6,0.1148,0.0307,True,False
+1076,34692.95,Rural,Video,Website,6,0.034,0.0569,False,True
+1077,43974.68,Urban,Banner,Website,9,0.1489,0.0526,False,False
+1078,55526.38,Rural,Text,Social Media,5,0.1338,0.0508,True,False
+1079,44100.91,Suburban,Text,Search Engine,3,0.2839,0.0533,True,False
+1080,44782.53,Urban,Native,Search Engine,6,0.2128,0.0696,False,False
+1081,56665.33,Suburban,Banner,Search Engine,7,0.1869,0.0854,False,False
+1082,49135.82,Urban,Video,Search Engine,2,0.168,0.0518,False,True
+1083,83571.46,Urban,Banner,Website,8,0.1131,0.0561,False,False
+1084,66988.41,Suburban,Banner,Social Media,4,0.0839,0.049,False,False
+1085,51662.0,Suburban,Video,Website,6,0.0631,0.0288,False,True
+1086,42285.62,Urban,Banner,Search Engine,5,0.2454,0.0328,False,False
+1087,26279.84,Suburban,Banner,Social Media,8,0.1969,0.0544,False,False
+1088,32134.64,Suburban,Video,Search Engine,5,0.1028,0.0853,False,True
+1089,41106.76,Rural,Banner,Search Engine,3,0.1005,0.0616,False,False
+1090,58226.94,Rural,Native,Search Engine,4,0.35,0.0741,False,False
+1091,43766.94,Rural,Video,Search Engine,3,0.2927,0.044,False,True
+1092,22011.13,Suburban,Banner,Social Media,3,0.4126,0.0259,False,False
+1093,45606.89,Suburban,Text,Social Media,2,0.5121,0.0225,True,False
+1094,108152.71,Rural,Banner,Social Media,5,0.3518,0.0573,False,False
+1095,106223.83,Rural,Text,Website,5,0.4744,0.0451,True,False
+1096,55001.61,Rural,Text,Search Engine,4,0.1048,0.0303,True,False
+1097,38286.02,Rural,Text,Website,4,0.219,0.0378,True,False
+1098,47874.82,Urban,Native,Website,8,0.0272,0.1021,False,False
+1099,65185.53,Urban,Banner,Search Engine,3,0.0905,0.0653,False,False
+1100,65313.43,Suburban,Text,Social Media,9,0.1069,0.0833,True,False
+1101,33319.35,Suburban,Text,Search Engine,4,0.1616,0.0401,True,False
+1102,30744.28,Suburban,Native,Social Media,5,0.0996,0.042,False,False
+1103,49525.4,Urban,Video,Search Engine,1,0.4462,0.0487,False,True
+1104,50701.91,Urban,Text,Website,4,0.1554,0.0801,True,False
+1105,21524.2,Suburban,Text,Search Engine,2,0.0907,0.0503,True,False
+1106,17496.03,Suburban,Native,Search Engine,5,0.3226,0.038,False,False
+1107,30531.08,Urban,Text,Social Media,6,0.467,0.0417,True,False
+1108,41511.76,Suburban,Native,Website,3,0.0607,0.0674,False,False
+1109,81296.91,Suburban,Native,Social Media,7,0.1858,0.0316,False,False
+1110,12585.18,Rural,Video,Search Engine,6,0.2859,0.0551,False,True
+1111,63166.11,Urban,Banner,Social Media,5,0.0529,0.0436,False,False
+1112,53641.36,Rural,Text,Search Engine,6,0.2848,0.0539,True,False
+1113,15281.69,Urban,Video,Website,4,0.319,0.0261,False,True
+1114,69189.01,Suburban,Video,Website,6,0.0649,0.0375,False,True
+1115,87250.81,Suburban,Text,Social Media,3,0.245,0.0435,True,False
+1116,39842.99,Rural,Video,Website,6,0.2343,0.0686,False,True
+1117,23450.87,Suburban,Text,Search Engine,4,0.1429,0.0214,True,False
+1118,68892.29,Suburban,Video,Social Media,2,0.1317,0.0407,False,True
+1119,70719.32,Urban,Video,Search Engine,3,0.1837,0.0955,False,True
+1120,34986.16,Urban,Text,Website,4,0.2819,0.0136,True,False
+1121,41703.5,Rural,Banner,Website,6,0.2737,0.0463,False,False
+1122,53696.38,Urban,Video,Search Engine,4,0.0883,0.0601,False,True
+1123,27090.98,Rural,Text,Search Engine,3,0.1268,0.0778,True,False
+1124,52438.44,Urban,Banner,Website,4,0.4106,0.0309,False,False
+1125,47695.2,Urban,Banner,Website,8,0.119,0.013,False,False
+1126,53521.66,Suburban,Video,Website,2,0.0731,0.0701,False,True
+1127,43848.51,Urban,Native,Website,3,0.148,0.0506,False,False
+1128,19448.84,Urban,Banner,Website,2,0.0942,0.0655,False,False
+1129,48414.53,Suburban,Video,Social Media,4,0.0108,0.0807,False,True
+1130,46765.18,Urban,Text,Website,7,0.0517,0.0186,True,False
+1131,30824.93,Suburban,Native,Website,4,0.1188,0.0695,False,False
+1132,50799.58,Suburban,Text,Social Media,7,0.0347,0.0376,True,False
+1133,65671.69,Suburban,Video,Search Engine,7,0.3362,0.0459,False,True
+1134,73977.49,Rural,Banner,Search Engine,6,0.0671,0.0597,False,False
+1135,53630.3,Rural,Native,Search Engine,8,0.2847,0.0668,False,False
+1136,67845.46,Rural,Text,Search Engine,5,0.2896,0.039,True,False
+1137,39317.19,Urban,Banner,Social Media,5,0.0726,0.0582,False,False
+1138,56222.88,Suburban,Native,Website,4,0.1673,0.0447,False,False
+1139,25967.29,Rural,Video,Search Engine,3,0.2878,0.0362,False,True
+1140,63000.67,Urban,Native,Search Engine,5,0.4078,0.0515,False,False
+1141,30405.48,Rural,Text,Website,6,0.0513,0.0497,True,False
+1142,45441.75,Suburban,Text,Social Media,6,0.1019,0.0353,True,False
+1143,82337.23,Urban,Video,Website,7,0.3911,0.0627,False,True
+1144,23293.1,Rural,Video,Social Media,5,0.0731,0.0364,False,True
+1145,73751.12,Rural,Native,Social Media,4,0.229,0.0718,False,False
+1146,92224.64,Urban,Text,Website,5,0.1919,0.0603,True,False
+1147,56359.74,Urban,Video,Search Engine,4,0.3642,0.0278,False,True
+1148,62043.06,Rural,Video,Website,9,0.3123,0.0579,False,True
+1149,59633.51,Suburban,Banner,Social Media,5,0.1248,0.0641,False,False
+1150,97153.38,Rural,Video,Website,5,0.3375,0.0439,False,True
+1151,75473.12,Urban,Text,Social Media,6,0.0836,0.0613,True,False
+1152,90835.22,Urban,Banner,Website,1,0.2942,0.0613,False,False
+1153,60555.06,Suburban,Native,Website,6,0.2497,0.0643,False,False
+1154,21018.08,Suburban,Native,Website,7,0.2894,0.0553,False,False
+1155,46348.84,Urban,Video,Search Engine,6,0.1984,0.0838,False,True
+1156,47435.27,Urban,Native,Social Media,4,0.1686,0.0699,False,False
+1157,23010.65,Urban,Native,Search Engine,6,0.1935,0.0499,False,False
+1158,57441.23,Urban,Text,Website,7,0.2012,0.0683,True,False
+1159,50342.23,Urban,Banner,Search Engine,3,0.3059,0.0607,False,False
+1160,35660.8,Rural,Banner,Search Engine,4,0.0926,0.048,False,False
+1161,9678.25,Suburban,Text,Social Media,7,0.0767,0.06,True,False
+1162,71775.18,Rural,Banner,Search Engine,12,0.0731,0.0535,False,False
+1163,55292.5,Urban,Video,Website,4,0.1048,0.0589,False,True
+1164,44850.13,Urban,Native,Search Engine,4,0.0363,0.0166,False,False
+1165,57483.7,Suburban,Text,Search Engine,5,0.0782,0.0411,True,False
+1166,65905.82,Rural,Video,Search Engine,6,0.4471,0.0509,False,True
+1167,58705.0,Urban,Native,Search Engine,4,0.2984,0.0423,False,False
+1168,42149.89,Suburban,Native,Website,4,0.2833,0.0751,False,False
+1169,63224.63,Suburban,Native,Search Engine,6,0.068,0.0308,False,False
+1170,44541.74,Suburban,Video,Social Media,2,0.4184,0.0317,False,True
+1171,60420.04,Suburban,Text,Website,7,0.3306,0.0504,True,False
+1172,44930.9,Rural,Text,Social Media,3,0.2222,0.0353,True,False
+1173,36230.86,Urban,Banner,Website,7,0.5495,0.0447,False,False
+1174,43836.57,Suburban,Text,Website,6,0.4092,0.0322,True,False
+1175,40876.08,Rural,Banner,Social Media,1,0.1027,0.0614,False,False
+1176,90302.8,Urban,Video,Social Media,4,0.3224,0.0849,False,True
+1177,58706.91,Urban,Native,Search Engine,8,0.0502,0.0804,False,False
+1178,35028.08,Urban,Banner,Website,5,0.2364,0.0778,False,False
+1179,11471.8,Urban,Text,Website,5,0.0965,0.0324,True,False
+1180,57592.08,Rural,Banner,Website,5,0.1333,0.0706,False,False
+1181,49693.99,Urban,Banner,Search Engine,2,0.4979,0.0393,False,False
+1182,50554.23,Urban,Native,Social Media,5,0.1958,0.0383,False,False
+1183,92080.19,Urban,Text,Website,4,0.1715,0.0496,True,False
+1184,74972.71,Urban,Video,Social Media,5,0.3469,0.0655,False,True
+1185,9318.62,Urban,Native,Website,2,0.2512,0.0426,False,False
+1186,41699.8,Suburban,Native,Search Engine,3,0.2467,0.0468,False,False
+1187,77436.63,Urban,Banner,Search Engine,5,0.0316,0.0506,False,False
+1188,3439.94,Rural,Text,Website,7,0.2191,0.0413,True,False
+1189,16834.7,Rural,Video,Search Engine,8,0.1635,0.0848,False,True
+1190,42888.82,Urban,Banner,Website,2,0.2394,0.0703,False,False
+1191,50274.93,Urban,Native,Website,9,0.0478,0.0373,False,False
+1192,48922.95,Suburban,Text,Website,3,0.201,0.0703,True,False
+1193,37303.34,Urban,Banner,Search Engine,3,0.2209,0.0314,False,False
+1194,15020.31,Suburban,Video,Search Engine,10,0.1579,0.0398,False,True
+1195,69520.66,Urban,Native,Website,7,0.27,0.0513,False,False
+1196,39393.87,Suburban,Video,Website,4,0.249,0.0595,False,True
+1197,81654.76,Suburban,Banner,Social Media,6,0.0341,0.0533,False,False
+1198,43112.93,Suburban,Video,Website,5,0.1255,0.0411,False,True
+1199,43846.55,Suburban,Native,Social Media,4,0.1809,0.0118,False,False
+1200,67921.33,Suburban,Video,Social Media,5,0.1242,0.0831,False,True
+1201,5780.77,Rural,Video,Social Media,11,0.0693,0.0255,False,True
+1202,75738.67,Rural,Video,Social Media,3,0.3273,0.0398,False,True
+1203,50034.74,Rural,Text,Website,5,0.1789,0.0526,True,False
+1204,41707.31,Urban,Text,Website,6,0.1834,0.0641,True,False
+1205,14014.94,Suburban,Text,Search Engine,8,0.0803,0.0492,True,False
+1206,60246.82,Rural,Video,Website,8,0.1363,0.0755,False,True
+1207,54693.77,Rural,Video,Website,1,0.1299,0.0507,False,True
+1208,52243.83,Urban,Banner,Website,6,0.3276,0.0155,False,False
+1209,34651.35,Suburban,Native,Search Engine,10,0.2591,0.0622,False,False
+1210,64202.56,Rural,Text,Social Media,5,0.1388,0.0611,True,False
+1211,25435.45,Urban,Native,Website,3,0.2016,0.062,False,False
+1212,43710.95,Urban,Video,Search Engine,2,0.1084,0.0672,False,True
+1213,55498.92,Suburban,Native,Search Engine,2,0.1318,0.0364,False,False
+1214,43129.52,Suburban,Banner,Website,5,0.5361,0.0223,False,False
+1215,21302.59,Rural,Video,Website,4,0.3712,0.05,False,True
+1216,67737.59,Suburban,Native,Social Media,4,0.1525,0.0719,False,False
+1217,112004.54,Suburban,Banner,Social Media,6,0.5236,0.0813,False,False
+1218,70111.81,Suburban,Text,Social Media,7,0.2128,0.0575,True,False
+1219,28294.63,Urban,Text,Website,3,0.0476,0.0254,True,False
+1220,57308.36,Suburban,Banner,Search Engine,7,0.1973,0.0614,False,False
+1221,67162.87,Suburban,Native,Search Engine,10,0.2035,0.0884,False,False
+1222,76662.4,Urban,Video,Search Engine,6,0.1615,0.0248,False,True
+1223,45912.24,Urban,Text,Social Media,9,0.1519,0.0332,True,False
+1224,79526.86,Rural,Video,Social Media,10,0.2958,0.0581,False,True
+1225,5573.36,Suburban,Text,Website,4,0.0121,0.0317,True,False
+1226,47215.67,Urban,Banner,Search Engine,7,0.2403,0.0386,False,False
+1227,41617.01,Rural,Banner,Search Engine,7,0.2097,0.0453,False,False
+1228,43192.27,Rural,Native,Search Engine,5,0.1779,0.0803,False,False
+1229,46555.97,Urban,Text,Search Engine,8,0.1662,0.0596,True,False
+1230,31698.36,Rural,Banner,Search Engine,1,0.1664,0.0688,False,False
+1231,9227.59,Rural,Text,Search Engine,3,0.1165,0.0723,True,False
+1232,84985.7,Rural,Video,Website,10,0.0489,0.0681,False,True
+1233,43545.07,Suburban,Native,Website,4,0.3518,0.0654,False,False
+1234,43678.8,Suburban,Video,Website,5,0.3919,0.0724,False,True
+1235,20358.98,Urban,Banner,Social Media,4,0.084,0.0508,False,False
+1236,42139.59,Suburban,Video,Search Engine,4,0.1629,0.0666,False,True
+1237,75618.56,Rural,Text,Website,2,0.2279,0.0754,True,False
+1238,84307.57,Suburban,Banner,Search Engine,3,0.095,0.0403,False,False
+1239,82606.59,Suburban,Text,Social Media,2,0.1664,0.0602,True,False
+1240,24188.57,Suburban,Video,Website,5,0.2692,0.043,False,True
+1241,41545.46,Suburban,Video,Search Engine,2,0.1895,0.0473,False,True
+1242,49924.93,Suburban,Video,Social Media,5,0.2797,0.0279,False,True
+1243,55349.18,Urban,Video,Website,4,0.032,0.0764,False,True
+1244,36771.51,Suburban,Banner,Website,3,0.1183,0.0567,False,False
+1245,71998.22,Suburban,Native,Social Media,3,0.0426,0.0319,False,False
+1246,19913.26,Rural,Banner,Website,5,0.2241,0.0683,False,False
+1247,18267.77,Rural,Banner,Search Engine,4,0.1257,0.0376,False,False
+1248,68477.86,Rural,Video,Social Media,1,0.0876,0.0601,False,True
+1249,8327.44,Suburban,Video,Website,4,0.1426,0.0408,False,True
+1250,49267.41,Urban,Banner,Search Engine,11,0.2306,0.0364,False,False
+1251,80125.12,Urban,Video,Social Media,4,0.1769,0.0494,False,True
+1252,51888.72,Rural,Banner,Website,8,0.0249,0.0278,False,False
+1253,64613.26,Suburban,Banner,Social Media,9,0.1725,0.0691,False,False
+1254,94266.55,Urban,Video,Search Engine,5,0.3814,0.0564,False,True
+1255,28764.73,Urban,Video,Website,7,0.1992,0.0258,False,True
+1256,23556.63,Rural,Native,Search Engine,5,0.1037,0.012,False,False
+1257,26815.12,Urban,Video,Social Media,4,0.2573,0.0408,False,True
+1258,43981.97,Suburban,Banner,Social Media,4,0.2234,0.0424,False,False
+1259,63933.5,Suburban,Native,Search Engine,8,0.3353,0.0948,False,False
+1260,82649.22,Urban,Banner,Social Media,3,0.0659,0.041,False,False
+1261,43770.76,Urban,Native,Search Engine,5,0.1522,0.0382,False,False
+1262,40065.79,Suburban,Text,Social Media,4,0.1809,0.0657,True,False
+1263,7079.91,Suburban,Banner,Search Engine,5,0.444,0.05,False,False
+1264,54652.67,Urban,Native,Website,4,0.169,0.0404,False,False
+1265,46668.31,Urban,Native,Website,2,0.239,0.0328,False,False
+1266,60006.9,Suburban,Native,Social Media,7,0.139,0.0124,False,False
+1267,55704.37,Suburban,Banner,Search Engine,6,0.1242,0.0521,False,False
+1268,49589.06,Suburban,Banner,Social Media,7,0.3993,0.0458,False,False
+1269,25461.34,Rural,Text,Search Engine,2,0.2077,0.0456,True,False
+1270,61122.61,Rural,Text,Search Engine,5,0.1754,0.0531,True,False
+1271,51665.13,Urban,Native,Website,5,0.089,0.0531,False,False
+1272,30042.08,Suburban,Native,Social Media,5,0.1012,0.0445,False,False
+1273,65630.87,Urban,Video,Social Media,6,0.255,0.054,False,True
+1274,43147.92,Urban,Native,Social Media,3,0.0946,0.0782,False,False
+1275,76286.75,Urban,Banner,Social Media,4,0.3696,0.071,False,False
+1276,36934.06,Urban,Text,Website,2,0.1983,0.0605,True,False
+1277,38135.25,Rural,Native,Website,2,0.2029,0.0205,False,False
+1278,52828.89,Rural,Video,Search Engine,4,0.2286,0.0486,False,True
+1279,48682.14,Urban,Native,Search Engine,4,0.0567,0.0419,False,False
+1280,67393.96,Suburban,Native,Website,2,0.0975,0.0531,False,False
+1281,53149.41,Rural,Banner,Search Engine,2,0.3932,0.0764,False,False
+1282,62339.34,Urban,Text,Website,4,0.3275,0.0463,True,False
+1283,71411.12,Suburban,Native,Social Media,8,0.2088,0.0475,False,False
+1284,73991.46,Suburban,Banner,Search Engine,1,0.4505,0.0325,False,False
+1285,42462.42,Suburban,Text,Social Media,5,0.2495,0.0566,True,False
+1286,51270.61,Suburban,Banner,Website,3,0.0755,0.0287,False,False
+1287,33922.36,Rural,Video,Search Engine,7,0.2761,0.0696,False,True
+1288,79999.98,Rural,Text,Social Media,2,0.2956,0.0499,True,False
+1289,64514.54,Rural,Text,Website,6,0.0409,0.088,True,False
+1290,39399.72,Rural,Text,Website,6,0.1261,0.034,True,False
+1291,35829.96,Urban,Banner,Search Engine,2,0.4395,0.0521,False,False
+1292,77171.33,Rural,Text,Social Media,6,0.1445,0.0298,True,False
+1293,57712.4,Rural,Banner,Search Engine,4,0.2172,0.0282,False,False
+1294,52177.12,Suburban,Text,Website,3,0.0731,0.0378,True,False
+1295,100842.02,Urban,Video,Website,7,0.0094,0.039,False,True
+1296,66284.08,Urban,Banner,Search Engine,2,0.3571,0.0598,False,False
+1297,22442.9,Suburban,Text,Social Media,4,0.2715,0.0566,True,False
+1298,56772.65,Rural,Text,Website,7,0.5253,0.0423,True,False
+1299,9709.5,Urban,Banner,Social Media,5,0.2489,0.0112,False,False
+1300,48175.94,Urban,Video,Website,4,0.0984,0.0277,False,True
+1301,20492.75,Urban,Text,Website,5,0.1678,0.1068,True,False
+1302,37166.13,Suburban,Native,Website,7,0.0772,0.044,False,False
+1303,28027.54,Suburban,Native,Website,6,0.1756,0.0433,False,False
+1304,62085.31,Suburban,Video,Social Media,1,0.3251,0.0458,False,True
+1305,54301.0,Rural,Banner,Social Media,6,0.2439,0.0552,False,False
+1306,66654.76,Urban,Video,Search Engine,4,0.0992,0.0681,False,True
+1307,42733.89,Rural,Video,Social Media,5,0.122,0.0631,False,True
+1308,36725.99,Rural,Text,Website,5,0.4137,0.0759,True,False
+1309,30476.24,Rural,Banner,Website,7,0.3678,0.0263,False,False
+1310,65812.23,Suburban,Video,Social Media,7,0.1203,0.0821,False,True
+1311,69319.44,Rural,Text,Social Media,6,0.2812,0.0542,True,False
+1312,45404.41,Urban,Text,Website,5,0.3343,0.0527,True,False
+1313,25623.74,Suburban,Text,Search Engine,5,0.1211,0.0484,True,False
+1314,13903.02,Urban,Video,Search Engine,4,0.0968,0.0293,False,True
+1315,13073.97,Rural,Native,Social Media,4,0.1103,0.0262,False,False
+1316,67028.51,Urban,Native,Website,3,0.2789,0.0,False,False
+1317,37112.21,Urban,Banner,Website,5,0.2128,0.0416,False,False
+1318,60784.79,Suburban,Text,Search Engine,5,0.085,0.0209,True,False
+1319,57960.82,Urban,Text,Social Media,4,0.1468,0.0154,True,False
+1320,49417.74,Rural,Native,Social Media,1,0.2868,0.041,False,False
+1321,62278.45,Suburban,Video,Website,7,0.1182,0.0686,False,True
+1322,31008.71,Rural,Banner,Website,4,0.2827,0.0442,False,False
+1323,49851.06,Suburban,Text,Website,5,0.2206,0.0601,True,False
+1324,34079.03,Urban,Text,Website,3,0.3511,0.0927,True,False
+1325,62003.26,Suburban,Banner,Social Media,4,0.1171,0.0356,False,False
+1326,32484.36,Suburban,Native,Social Media,2,0.0404,0.0689,False,False
+1327,36319.0,Suburban,Text,Search Engine,3,0.3364,0.0673,True,False
+1328,36646.74,Urban,Native,Website,8,0.0306,0.0506,False,False
+1329,49227.09,Rural,Banner,Search Engine,4,0.0717,0.0342,False,False
+1330,48150.94,Suburban,Text,Website,2,0.1904,0.0562,True,False
+1331,66340.81,Rural,Text,Search Engine,8,0.2916,0.0734,True,False
+1332,60825.69,Urban,Native,Search Engine,5,0.1388,0.0314,False,False
+1333,32253.12,Suburban,Text,Social Media,5,0.4327,0.0654,True,False
+1334,85108.16,Urban,Native,Search Engine,6,0.2382,0.0722,False,False
+1335,42120.22,Rural,Native,Website,4,0.2157,0.0553,False,False
+1336,17401.93,Suburban,Video,Website,6,0.4229,0.0556,False,True
+1337,69729.24,Rural,Native,Website,3,0.1656,0.0725,False,False
+1338,63008.81,Urban,Native,Social Media,9,0.0886,0.0434,False,False
+1339,85540.07,Urban,Video,Search Engine,0,0.1196,0.0286,False,True
+1340,80106.36,Urban,Video,Search Engine,7,0.1459,0.0393,False,True
+1341,42171.5,Suburban,Banner,Website,4,0.0736,0.0562,False,False
+1342,45319.35,Rural,Video,Website,4,0.0573,0.0302,False,True
+1343,56483.76,Suburban,Banner,Search Engine,5,0.3317,0.0768,False,False
+1344,46239.64,Urban,Video,Website,8,0.2264,0.0412,False,True
+1345,57043.75,Suburban,Native,Search Engine,5,0.2439,0.0318,False,False
+1346,20206.24,Suburban,Text,Search Engine,3,0.3959,0.0204,True,False
+1347,74575.91,Rural,Banner,Search Engine,4,0.0827,0.0345,False,False
+1348,48275.32,Rural,Text,Website,4,0.1394,0.0952,True,False
+1349,43350.09,Urban,Text,Search Engine,7,0.0948,0.0419,True,False
+1350,53905.3,Rural,Video,Search Engine,6,0.1238,0.0468,False,True
+1351,23949.56,Suburban,Text,Search Engine,1,0.0973,0.0525,True,False
+1352,18901.0,Rural,Banner,Social Media,3,0.0846,0.0608,False,False
+1353,15763.27,Urban,Video,Search Engine,9,0.1445,0.029,False,True
+1354,46020.67,Suburban,Text,Search Engine,3,0.1412,0.0339,True,False
+1355,79968.0,Rural,Native,Search Engine,5,0.0667,0.126,False,False
+1356,106919.93,Suburban,Text,Website,8,0.1249,0.0284,True,False
+1357,23777.64,Suburban,Banner,Search Engine,4,0.0351,0.0601,False,False
+1358,80847.56,Suburban,Video,Search Engine,4,0.1074,0.0075,False,True
+1359,58710.68,Suburban,Native,Website,6,0.1271,0.0393,False,False
+1360,43046.99,Rural,Banner,Website,5,0.1554,0.0356,False,False
+1361,48687.08,Suburban,Native,Social Media,6,0.2358,0.0451,False,False
+1362,39827.77,Rural,Video,Website,7,0.4662,0.0437,False,True
+1363,18948.64,Suburban,Video,Website,7,0.1938,0.0277,False,True
+1364,44464.33,Rural,Native,Social Media,8,0.1087,0.0581,False,False
+1365,104332.88,Suburban,Banner,Social Media,5,0.2454,0.0515,False,False
+1366,36802.31,Rural,Native,Website,6,0.2629,0.0465,False,False
+1367,40799.97,Suburban,Text,Search Engine,2,0.2024,0.0288,True,False
+1368,31912.93,Suburban,Text,Search Engine,6,0.1173,0.0231,True,False
+1369,58452.65,Urban,Text,Search Engine,3,0.2914,0.0345,True,False
+1370,68838.1,Urban,Video,Search Engine,4,0.3572,0.0521,False,True
+1371,42318.84,Suburban,Banner,Search Engine,6,0.2385,0.0783,False,False
+1372,47075.68,Urban,Banner,Search Engine,2,0.0477,0.06,False,False
+1373,26531.38,Rural,Banner,Search Engine,7,0.0504,0.0562,False,False
+1374,62373.98,Suburban,Video,Search Engine,4,0.1959,0.087,False,True
+1375,54187.87,Urban,Text,Search Engine,4,0.0814,0.0643,True,False
+1376,48483.82,Urban,Video,Social Media,6,0.3465,0.0111,False,True
+1377,38783.63,Rural,Text,Website,6,0.1446,0.0537,True,False
+1378,44559.15,Rural,Video,Website,4,0.2286,0.0446,False,True
+1379,56241.12,Urban,Native,Website,3,0.0127,0.0503,False,False
+1380,68878.87,Rural,Native,Website,3,0.3126,0.0445,False,False
+1381,14812.61,Suburban,Banner,Website,5,0.2522,0.0933,False,False
+1382,34700.81,Urban,Video,Search Engine,3,0.589,0.0814,False,True
+1383,42179.61,Urban,Banner,Social Media,4,0.0978,0.0212,False,False
+1384,70497.42,Urban,Banner,Search Engine,3,0.0916,0.0754,False,False
+1385,47849.25,Urban,Video,Website,6,0.4408,0.0153,False,True
+1386,58148.06,Rural,Text,Search Engine,4,0.1681,0.0726,True,False
+1387,24577.46,Suburban,Native,Search Engine,5,0.3198,0.0511,False,False
+1388,59654.0,Rural,Native,Social Media,6,0.0997,0.0239,False,False
+1389,49438.94,Rural,Video,Search Engine,6,0.371,0.0777,False,True
+1390,25475.56,Suburban,Text,Social Media,8,0.2795,0.0407,True,False
+1391,28201.97,Rural,Native,Search Engine,0,0.3057,0.0791,False,False
+1392,31628.67,Urban,Video,Search Engine,8,0.1359,0.0731,False,True
+1393,47095.14,Rural,Video,Website,5,0.2854,0.0205,False,True
+1394,60508.04,Urban,Native,Search Engine,6,0.2278,0.0398,False,False
+1395,74133.38,Suburban,Native,Search Engine,5,0.3934,0.0539,False,False
+1396,35896.72,Urban,Banner,Social Media,6,0.3039,0.0624,False,False
+1397,49380.05,Suburban,Banner,Social Media,5,0.1489,0.0741,False,False
+1398,51352.81,Suburban,Native,Social Media,5,0.1466,0.0219,False,False
+1399,75518.66,Suburban,Native,Website,5,0.3067,0.0259,False,False
+1400,43868.19,Rural,Video,Social Media,3,0.1509,0.0689,False,True
+1401,15593.49,Urban,Native,Website,4,0.1989,0.0792,False,False
+1402,26582.56,Rural,Video,Social Media,7,0.1826,0.0398,False,True
+1403,68709.52,Rural,Video,Search Engine,4,0.2157,0.048,False,True
+1404,52445.4,Urban,Video,Website,4,0.3822,0.021,False,True
+1405,27199.55,Suburban,Native,Search Engine,8,0.1155,0.0352,False,False
+1406,57550.21,Rural,Text,Social Media,6,0.145,0.061,True,False
+1407,24473.74,Rural,Video,Social Media,4,0.1498,0.0627,False,True
+1408,48432.93,Rural,Native,Search Engine,4,0.093,0.0309,False,False
+1409,60732.63,Urban,Video,Social Media,9,0.2921,0.0652,False,True
+1410,28953.33,Suburban,Text,Search Engine,10,0.1868,0.041,True,False
+1411,48244.12,Rural,Text,Website,5,0.3906,0.0555,True,False
+1412,49895.59,Urban,Text,Search Engine,4,0.1564,0.0454,True,False
+1413,65722.69,Suburban,Video,Website,3,0.2568,0.0496,False,True
+1414,61516.3,Urban,Banner,Website,3,0.2471,0.0546,False,False
+1415,35806.49,Suburban,Banner,Social Media,2,0.0554,0.0577,False,False
+1416,58451.32,Rural,Banner,Search Engine,6,0.3007,0.0044,False,False
+1417,70021.05,Rural,Banner,Website,5,0.2392,0.0363,False,False
+1418,24204.79,Rural,Native,Search Engine,6,0.4335,0.048,False,False
+1419,78423.32,Suburban,Native,Search Engine,4,0.2662,0.0288,False,False
+1420,56114.99,Suburban,Banner,Website,7,0.5797,0.0973,False,False
+1421,71873.45,Urban,Video,Website,7,0.4318,0.0398,False,True
+1422,75674.21,Suburban,Text,Social Media,7,0.3151,0.0501,True,False
+1423,53648.44,Suburban,Video,Website,1,0.0817,0.0607,False,True
+1424,81251.53,Rural,Text,Website,6,0.356,0.0698,True,False
+1425,48945.38,Urban,Video,Search Engine,5,0.1435,0.0214,False,True
+1426,49733.8,Suburban,Text,Website,9,0.0583,0.0172,True,False
+1427,43709.94,Urban,Video,Social Media,7,0.2975,0.0,False,True
+1428,91170.91,Suburban,Video,Social Media,4,0.0979,0.0608,False,True
+1429,36971.04,Suburban,Text,Search Engine,3,0.1227,0.0615,True,False
+1430,41898.93,Suburban,Text,Social Media,6,0.2038,0.0317,True,False
+1431,29070.62,Rural,Banner,Search Engine,1,0.032,0.0565,False,False
+1432,62984.86,Rural,Banner,Website,9,0.1252,0.0506,False,False
+1433,59421.32,Suburban,Video,Search Engine,8,0.1421,0.0655,False,True
+1434,30985.74,Urban,Native,Website,7,0.2128,0.0635,False,False
+1435,53227.67,Rural,Text,Search Engine,6,0.4994,0.0244,True,False
+1436,47509.96,Rural,Video,Social Media,3,0.1862,0.0406,False,True
+1437,52316.73,Rural,Text,Social Media,7,0.2831,0.007,True,False
+1438,19300.22,Suburban,Native,Search Engine,9,0.1959,0.0944,False,False
+1439,49061.9,Suburban,Text,Website,7,0.1314,0.0515,True,False
+1440,31120.89,Suburban,Video,Website,4,0.0845,0.058,False,True
+1441,49985.71,Rural,Video,Social Media,2,0.2913,0.0229,False,True
+1442,75746.51,Suburban,Video,Website,6,0.4315,0.0492,False,True
+1443,31454.86,Rural,Native,Social Media,2,0.0325,0.0355,False,False
+1444,54936.61,Urban,Native,Search Engine,3,0.0266,0.0663,False,False
+1445,108300.38,Urban,Banner,Social Media,5,0.1858,0.0144,False,False
+1446,49068.15,Urban,Text,Search Engine,6,0.2863,0.0569,True,False
+1447,36334.46,Rural,Banner,Search Engine,6,0.2298,0.0496,False,False
+1448,41854.68,Urban,Video,Social Media,5,0.1605,0.0497,False,True
+1449,52001.08,Urban,Text,Social Media,3,0.1799,0.0519,True,False
+1450,48372.55,Urban,Video,Social Media,7,0.1489,0.0766,False,True
+1451,61193.72,Suburban,Native,Search Engine,5,0.074,0.045,False,False
+1452,57920.27,Rural,Native,Social Media,5,0.1003,0.0537,False,False
+1453,46873.48,Rural,Native,Website,4,0.246,0.0723,False,False
+1454,58175.85,Urban,Banner,Search Engine,4,0.1765,0.0302,False,False
+1455,47042.67,Urban,Banner,Website,7,0.425,0.0461,False,False
+1456,27222.71,Suburban,Video,Website,6,0.1413,0.0739,False,True
+1457,83163.36,Urban,Native,Social Media,7,0.1881,0.0348,False,False
+1458,48724.31,Suburban,Text,Search Engine,6,0.1594,0.0359,True,False
+1459,50620.89,Rural,Native,Search Engine,2,0.0856,0.0361,False,False
+1460,37863.57,Urban,Banner,Social Media,2,0.2579,0.057,False,False
+1461,69224.34,Rural,Banner,Social Media,4,0.0927,0.0622,False,False
+1462,24996.24,Rural,Text,Social Media,5,0.0358,0.0632,True,False
+1463,48633.6,Suburban,Text,Website,5,0.3021,0.0481,True,False
+1464,79004.87,Rural,Native,Search Engine,4,0.654,0.037,False,False
+1465,38695.2,Suburban,Video,Website,7,0.0686,0.0388,False,True
+1466,95533.18,Urban,Native,Social Media,1,0.211,0.0664,False,False
+1467,31829.43,Rural,Banner,Website,3,0.5682,0.0755,False,False
+1468,52654.04,Suburban,Text,Social Media,4,0.2048,0.0144,True,False
+1469,21817.46,Rural,Video,Social Media,3,0.1366,0.0327,False,True
+1470,41881.15,Urban,Text,Social Media,1,0.1245,0.0203,True,False
+1471,82621.29,Urban,Text,Search Engine,8,0.1113,0.0548,True,False
+1472,18485.74,Rural,Text,Social Media,6,0.041,0.0396,True,False
+1473,39714.35,Urban,Banner,Website,6,0.1114,0.0836,False,False
+1474,21611.88,Rural,Native,Social Media,4,0.3324,0.0223,False,False
+1475,28500.83,Urban,Native,Search Engine,9,0.2593,0.0608,False,False
+1476,35593.7,Urban,Banner,Social Media,7,0.2947,0.0321,False,False
+1477,46905.22,Urban,Native,Website,6,0.1024,0.0624,False,False
+1478,30266.14,Suburban,Text,Website,5,0.095,0.0332,True,False
+1479,43727.37,Rural,Native,Social Media,5,0.1958,0.0741,False,False
+1480,44181.95,Rural,Banner,Website,7,0.4897,0.0466,False,False
+1481,58920.45,Suburban,Banner,Search Engine,4,0.6616,0.0454,False,False
+1482,34491.14,Rural,Native,Social Media,3,0.0629,0.041,False,False
+1483,40492.04,Suburban,Native,Search Engine,7,0.5848,0.0574,False,False
+1484,68948.03,Rural,Text,Website,7,0.1473,0.0403,True,False
+1485,29298.53,Urban,Native,Social Media,8,0.1696,0.088,False,False
+1486,55545.65,Urban,Banner,Website,6,0.1719,0.0099,False,False
+1487,40535.55,Rural,Text,Social Media,2,0.1156,0.0099,True,False
+1488,64732.67,Urban,Video,Social Media,7,0.103,0.0617,False,True
+1489,58187.57,Suburban,Banner,Social Media,3,0.1615,0.0657,False,False
+1490,53169.18,Urban,Video,Search Engine,3,0.136,0.0397,False,True
+1491,17749.15,Urban,Native,Website,4,0.3564,0.054,False,False
+1492,66441.59,Suburban,Banner,Search Engine,2,0.0307,0.0323,False,False
